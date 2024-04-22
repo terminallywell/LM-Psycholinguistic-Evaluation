@@ -19,7 +19,7 @@ masked_models = [
 MODEL_NAME = masked_models[0]
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, token=TOKEN)
-mask = tokenizer.mask_token
+MASK = tokenizer.mask_token
 fill_masker = pipeline(model=MODEL_NAME, token=TOKEN)
 
 
@@ -32,17 +32,17 @@ def prob_masked(context: str, word: str, surprisal: bool = False) -> float:
 
 
 # tests
-prob_masked(f'The key to the cabinet {mask} rusty from many years of disuse.', 'was')
-prob_masked(f'The key to the cabinet {mask} rusty from many years of disuse.', 'were')
-prob_masked(f'The key to the cabinets {mask} rusty from many years of disuse.', 'was')
-prob_masked(f'The key to the cabinets {mask} rusty from many years of disuse.', 'were')
-prob_masked(f'The keys to the cabinets {mask} rusty from many years of disuse.', 'was')
-prob_masked(f'The keys to the cabinets {mask} rusty from many years of disuse.', 'were')
+prob_masked(f'The key to the cabinet {MASK} rusty from many years of disuse.', 'was')
+prob_masked(f'The key to the cabinet {MASK} rusty from many years of disuse.', 'were')
+prob_masked(f'The key to the cabinets {MASK} rusty from many years of disuse.', 'was')
+prob_masked(f'The key to the cabinets {MASK} rusty from many years of disuse.', 'were')
+prob_masked(f'The keys to the cabinets {MASK} rusty from many years of disuse.', 'was')
+prob_masked(f'The keys to the cabinets {MASK} rusty from many years of disuse.', 'were')
 
 
-prob_masked(f'Give a man a fish, and you feed {mask} for a day.', 'him', False)
-prob_masked(f'Give a man a fish, and you feed {mask} for a day.', 'her', False)
-prob_masked(f'Give a woman a fish, and you feed {mask} for a day.', 'him', False)
-prob_masked(f'Give a woman a fish, and you feed {mask} for a day.', 'her', False)
+prob_masked(f'Give a man a fish, and you feed {MASK} for a day.', 'him', False)
+prob_masked(f'Give a man a fish, and you feed {MASK} for a day.', 'her', False)
+prob_masked(f'Give a woman a fish, and you feed {MASK} for a day.', 'him', False)
+prob_masked(f'Give a woman a fish, and you feed {MASK} for a day.', 'her', False)
 
-prob_masked(f'What do you {mask} of my new dress?.', 'think', False)
+prob_masked(f'What do you {MASK} of my new dress?.', 'think', False)

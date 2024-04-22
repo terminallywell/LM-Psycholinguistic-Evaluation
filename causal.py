@@ -14,10 +14,10 @@ causal_models = [
     'openai-community/gpt2-medium',
     'openai-community/gpt2-large',
     'facebook/opt-350m',
-    'google/gemma-7b'
+    'google/gemma-2b'
 ]
 
-MODEL_NAME = causal_models[3]
+MODEL_NAME = causal_models[4]
 
 tokenizer: AutoTokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, token=TOKEN)
 model: AutoModelForCausalLM = AutoModelForCausalLM.from_pretrained(MODEL_NAME, token=TOKEN)
@@ -61,8 +61,8 @@ contexts = principle_b
 word = 'Michael'
 
 for context in contexts:
-    prob_next(context, word)
+    surprisal = prob_next(context, word, True)
+    print(f'Surprisal of "{word}" in "{context} {word} ...": {surprisal:.3f}')
 
 abs(prob_next(contexts[0], word) - prob_next(contexts[1], word))
 abs(prob_next(contexts[2], word) - prob_next(contexts[3], word))
-
