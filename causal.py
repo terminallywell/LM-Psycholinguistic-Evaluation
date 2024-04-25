@@ -1,68 +1,40 @@
-# To delete cached models, run command: huggingface-cli delete-cache
-
 import torch
-from math import log2
-from transformers import AutoTokenizer, AutoModelForCausalLM
-
-# save your huggingface token as token.txt in your folder
-with open('token.txt', encoding='utf8') as file:
-    TOKEN = file.read().strip()
+from math import exp2, log2
+from transformers import PreTrainedTokenizerBase, PreTrainedModel
 
 
-causal_models = [
-    'openai-community/gpt2',
-    'openai-community/gpt2-medium',
-    'openai-community/gpt2-large',
-    'facebook/opt-350m',
-    'google/gemma-2b'
-]
-
-MODEL_NAME = causal_models[4]
-
-tokenizer: AutoTokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, token=TOKEN)
-model: AutoModelForCausalLM = AutoModelForCausalLM.from_pretrained(MODEL_NAME, token=TOKEN)
-
-
-def prob_next(context: str, word: str, surprisal: bool = False) -> float:
+def prob_next(tokenizer: PreTrainedTokenizerBase, model: PreTrainedModel, context: str, word: str, surprisal: bool = False) -> float:
+    '''Probability of a word/token given preceding context.'''
     input_ids = tokenizer.encode(context, return_tensors='pt')
+    word_id = tokenizer.encode(' ' + word, add_special_tokens=False)
     with torch.no_grad():
         outputs = model(input_ids)
-    logits = outputs.logits[:, -1, :]
-    probs = torch.softmax(logits, dim=1)[0]
-    word_id = tokenizer.encode(' ' + word, add_special_tokens=False)
-    prob = probs[word_id].item()
-
-    # print(tokenizer.decode(torch.argmax(probs)), probs[torch.argmax(probs)].item())
-
+    logits = outputs.logits
+    next_probs = logits[0, -1].softmax(dim=0)
+    prob = next_probs[word_id].item()
+    
     if surprisal:
         return -log2(prob)
     return prob
 
 
-# tests
-prob_next('Hello! My name', 'is')
+def prob_whole(tokenizer: PreTrainedTokenizerBase, model: PreTrainedModel, sentence: str, surprisal: bool = False) -> float:
+    '''Probability of a whole sentence as a product of probabilities of each token in it.'''
+    input_ids = tokenizer.encode('\n' + sentence, return_tensors='pt') # arbitrarily chose \n as start token
+    n = input_ids.size(dim=1) - 1
+    with torch.no_grad():
+        outputs = model(input_ids)
+    logits = outputs.logits
 
+    logp = 0
+    for i in range(n):
+        word_id = input_ids[0][i + 1]
+        next_probs = logits[0, i].softmax(dim=0)
+        prob = next_probs[word_id]
+        logp += log2(prob)
 
-principle_b = [
-    'Before offering him a fancy pastry,', # constraint
-    'Before offering her a fancy pastry,',
-    'Before anyone offered him a fancy pastry,', # no constraint
-    'Before anyone offered her a fancy pastry,',
-]
+    logp /= n # normalizer: keep or not?
 
-sbj_obj = [
-    'While he was taking orders,',
-    'While she was taking orders,',
-    'While he was taking orders, a couple of customers annoyed',
-    'While she was taking orders, a couple of customers annoyed',
-]
-
-contexts = principle_b
-word = 'Michael'
-
-for context in contexts:
-    surprisal = prob_next(context, word, True)
-    print(f'Surprisal of "{word}" in "{context} {word} ...": {surprisal:.3f}')
-
-abs(prob_next(contexts[0], word) - prob_next(contexts[1], word))
-abs(prob_next(contexts[2], word) - prob_next(contexts[3], word))
+    if surprisal:
+        return -logp
+    return exp2(logp)

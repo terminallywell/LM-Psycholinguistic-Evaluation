@@ -1,0 +1,5 @@
+Set,Condition,Context,Target
+1,Constraint-Match,"Before offering him a fancy pastry,","Michael"
+1,Constraint-Misatch,"Before offering her a fancy pastry,","Michael"
+1,NoConstraint-Match,"Before anyone offered him a fancy pastry,","Michael"
+1,NoConstraint-Mismatch,"Before anyone offered her a fancy pastry,","Michael"
