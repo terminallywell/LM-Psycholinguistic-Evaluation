@@ -53,12 +53,12 @@ Item,Condition,Context,Target
 13,NoConstraint-Mismatch,"After a professor had him in multiple classes,",Jessica
 14,Constraint-Match,"After buying her a pumpkin-spice latte,",Jessica
 14,Constraint-Mismatch,"After buying him a pumpkin-spice latte,",Jessica
-14,NoConstraint-Match,"After a stranger bought him a pumpkin-spice latte,",Jessica
+14,NoConstraint-Match,"After a stranger bought her a pumpkin-spice latte,",Jessica
 14,NoConstraint-Mismatch,"After a stranger bought him a pumpkin-spice latte,",Jessica
 15,Constraint-Match,"While writing her a reminder note,",Jessica
 15,Constraint-Mismatch,"While writing him a reminder note,",Jessica
-15,NoConstraint-Match,"While someone writing her a reminder note,",Jessica
-15,NoConstraint-Mismatch,"While someone writing him a reminder note,",Jessica
+15,NoConstraint-Match,"While someone wrote her a reminder note,",Jessica
+15,NoConstraint-Mismatch,"While someone wrote him a reminder note,",Jessica
 16,Constraint-Match,"After pouring her some hot tea,",Jessica
 16,Constraint-Mismatch,"After pouring him some hot tea,",Jessica
 16,NoConstraint-Match,"After a waiter poured her some hot tea,",Jessica
@@ -77,8 +77,8 @@ Item,Condition,Context,Target
 19,NoConstraint-Mismatch,"Before a chaperone took his kids on the rollercoaster,",Rachel
 20,Constraint-Match,"After taking her to a social event,",Rachel
 20,Constraint-Mismatch,"After taking him to a social event,",Rachel
-20,NoConstraint-Match,"After anyone took her to a social event,",Rachel
-20,NoConstraint-Mismatch,"After anyone took him to a social event,",Rachel
+20,NoConstraint-Match,"After the roommates took her to a social event,",Rachel
+20,NoConstraint-Mismatch,"After the roommates took him to a social event,",Rachel
 21,Constraint-Match,"Before showing her any new paintings,",Rachel
 21,Constraint-Mismatch,"Before showing him any new paintings,",Rachel
 21,NoConstraint-Match,"Before auctioneers showed her any new paintings,",Rachel
