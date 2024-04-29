@@ -1,0 +1,97 @@
+Item,Condition,Context,Target
+1,Constraint-Match,"Before offering him a fancy pastry,",Michael
+1,Constraint-Mismatch,"Before offering her a fancy pastry,",Michael
+1,NoConstraint-Match,"Before anyone offered him a fancy pastry,",Michael
+1,NoConstraint-Mismatch,"Before anyone offered her a fancy pastry,",Michael
+2,Constraint-Match,"While driving him to school on Friday,",Michael
+2,Constraint-Mismatch,"While driving her to school on Friday,",Michael
+2,NoConstraint-Match,"While a parent drove him to school on Friday,",Michael
+2,NoConstraint-Mismatch,"While a parent drove her to school on Friday,",Michael
+3,Constraint-Match,"While baking him some cookies,",Michael
+3,Constraint-Mismatch,"While baking her some cookies,",Michael
+3,NoConstraint-Match,"While an employee baked him some cookies,",Michael
+3,NoConstraint-Mismatch,"While an employee baked her some cookies,",Michael
+4,Constraint-Match,"After lifting him onto the bus,",Michael
+4,Constraint-Mismatch,"After lifting her onto the bus,",Michael
+4,NoConstraint-Match,"After an orderly lifted him onto the bus,",Michael
+4,NoConstraint-Mismatch,"After an orderly lifted her onto the bus,",Michael
+5,Constraint-Match,"Before interrogating him about the crime,",Michael
+5,Constraint-Mismatch,"Before interrogating her about the crime,",Michael
+5,NoConstraint-Match,"Before an officer interrogated him about the crime,",Michael
+5,NoConstraint-Mismatch,"Before an officer interrogated her about the crime,",Michael
+6,Constraint-Match,"After embarassing him during the party,",Michael
+6,Constraint-Mismatch,"After embarassing her during the party,",Michael
+6,NoConstraint-Match,"After a guest embarassed him during the party,",Michael
+6,NoConstraint-Mismatch,"After a guest embarassed her during the party,",Michael
+7,Constraint-Match,"While helping him shred the documents,",Jonathan
+7,Constraint-Mismatch,"While helping her shred the documents,",Jonathan
+7,NoConstraint-Match,"While an intern helped him shred the documents,",Jonathan
+7,NoConstraint-Mismatch,"While an intern helped her shred the documents,",Jonathan
+8,Constraint-Match,"While reading him a bedtime story,",Jonathan
+8,Constraint-Mismatch,"While reading her a bedtime story,",Jonathan
+8,NoConstraint-Match,"While someone read him a bedtime story,",Jonathan
+8,NoConstraint-Mismatch,"While someone read her a bedtime story,",Jonathan
+9,Constraint-Match,"After cornerning him next to the watercooler,",Jonathan
+9,Constraint-Mismatch,"After cornerning her next to the watercooler,",Jonathan
+9,NoConstraint-Match,"After a colleague cornerned him next to the watercooler,",Jonathan
+9,NoConstraint-Mismatch,"After a colleague cornerned her next to the watercooler,",Jonathan
+10,Constraint-Match,"After weighing him on the scale,",Jonathan
+10,Constraint-Mismatch,"After weighing her on the scale,",Jonathan
+10,NoConstraint-Match,"After a nurse weighed him on the scale,",Jonathan
+10,NoConstraint-Mismatch,"After a nurse weighed her on the scale,",Jonathan
+11,Constraint-Match,"Before spotting him at yoga class,",Jonathan
+11,Constraint-Mismatch,"Before spotting her at yoga class,",Jonathan
+11,NoConstraint-Match,"Before anyone spotted him at yoga class,",Jonathan
+11,NoConstraint-Mismatch,"Before anyone spotted her at yoga class,",Jonathan
+12,Constraint-Match,"Before visiting him on Sunday afternoons,",Jonathan
+12,Constraint-Mismatch,"Before visiting her on Sunday afternoons,",Jonathan
+12,NoConstraint-Match,"Before friends visited him on Sunday afternoons,",Jonathan
+12,NoConstraint-Mismatch,"Before friends visited her on Sunday afternoons,",Jonathan
+13,Constraint-Match,"After having her in multiple classes,",Jessica
+13,Constraint-Mismatch,"After having him in multiple classes,",Jessica
+13,NoConstraint-Match,"After a professor had her in multiple classes,",Jessica
+13,NoConstraint-Mismatch,"After a professor had him in multiple classes,",Jessica
+14,Constraint-Match,"After buying her a pumpkin-spice latte,",Jessica
+14,Constraint-Mismatch,"After buying him a pumpkin-spice latte,",Jessica
+14,NoConstraint-Match,"After a stranger bought him a pumpkin-spice latte,",Jessica
+14,NoConstraint-Mismatch,"After a stranger bought him a pumpkin-spice latte,",Jessica
+15,Constraint-Match,"While writing her a reminder note,",Jessica
+15,Constraint-Mismatch,"While writing him a reminder note,",Jessica
+15,NoConstraint-Match,"While someone writing her a reminder note,",Jessica
+15,NoConstraint-Mismatch,"While someone writing him a reminder note,",Jessica
+16,Constraint-Match,"After pouring her some hot tea,",Jessica
+16,Constraint-Mismatch,"After pouring him some hot tea,",Jessica
+16,NoConstraint-Match,"After a waiter poured her some hot tea,",Jessica
+16,NoConstraint-Mismatch,"After a waiter poured him some hot tea,",Jessica
+17,Constraint-Match,"After leaving her a voice message,",Jessica
+17,Constraint-Mismatch,"After leaving him a voice message,",Jessica
+17,NoConstraint-Match,"After a volunteer left her a voice message,",Jessica
+17,NoConstraint-Mismatch,"After a volunteer left him a voice message,",Jessica
+18,Constraint-Match,"After sending her a thank-you note,",Jessica
+18,Constraint-Mismatch,"After sending him a thank-you note,",Jessica
+18,NoConstraint-Match,"After someone sent her a thank-you note,",Jessica
+18,NoConstraint-Mismatch,"After someone sent him a thank-you note,",Jessica
+19,Constraint-Match,"Before taking her on the rollercoaster,",Rachel
+19,Constraint-Mismatch,"Before taking him on the rollercoaster,",Rachel
+19,NoConstraint-Match,"Before a chaperone took her kids on the rollercoaster,",Rachel
+19,NoConstraint-Mismatch,"Before a chaperone took his kids on the rollercoaster,",Rachel
+20,Constraint-Match,"After taking her to a social event,",Rachel
+20,Constraint-Mismatch,"After taking him to a social event,",Rachel
+20,NoConstraint-Match,"After anyone took her to a social event,",Rachel
+20,NoConstraint-Mismatch,"After anyone took him to a social event,",Rachel
+21,Constraint-Match,"Before showing her any new paintings,",Rachel
+21,Constraint-Mismatch,"Before showing him any new paintings,",Rachel
+21,NoConstraint-Match,"Before auctioneers showed her any new paintings,",Rachel
+21,NoConstraint-Mismatch,"Before auctioneers showed him any new paintings,",Rachel
+22,Constraint-Match,"After nominating her for class president,",Rachel
+22,Constraint-Mismatch,"After nominating him for class president,",Rachel
+22,NoConstraint-Match,"After a student nominated her for class president,",Rachel
+22,NoConstraint-Mismatch,"After a student nominated him for class president,",Rachel
+23,Constraint-Match,"After watching her on the Voice,",Rachel
+23,Constraint-Mismatch,"After watching him on the Voice,",Rachel
+23,NoConstraint-Match,"After everyone watched her on the Voice,",Rachel
+23,NoConstraint-Mismatch,"After everyone watched him on the Voice,",Rachel
+24,Constraint-Match,"Before sending her the secret contract,",Rachel
+24,Constraint-Mismatch,"Before sending him the secret contract,",Rachel
+24,NoConstraint-Match,"Before a secretary sent her the secret contract,",Rachel
+24,NoConstraint-Mismatch,"Before a secretary sent him the secret contract,",Rachel
