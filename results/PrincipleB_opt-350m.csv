@@ -1,0 +1,97 @@
+Item,Condition,Context,Target,Surprisal
+1,Constraint-Match,"Before offering him a fancy pastry,",Michael,11.384774945750566
+1,Constraint-Mismatch,"Before offering her a fancy pastry,",Michael,11.936928536987248
+1,NoConstraint-Match,"Before anyone offered him a fancy pastry,",Michael,12.840412253200688
+1,NoConstraint-Mismatch,"Before anyone offered her a fancy pastry,",Michael,14.117867182205094
+2,Constraint-Match,"While driving him to school on Friday,",Michael,9.890754692308004
+2,Constraint-Mismatch,"While driving her to school on Friday,",Michael,10.959205451071957
+2,NoConstraint-Match,"While a parent drove him to school on Friday,",Michael,9.642937482309247
+2,NoConstraint-Mismatch,"While a parent drove her to school on Friday,",Michael,11.039250323698084
+3,Constraint-Match,"While baking him some cookies,",Michael,10.639573632859648
+3,Constraint-Mismatch,"While baking her some cookies,",Michael,11.76487539518545
+3,NoConstraint-Match,"While an employee baked him some cookies,",Michael,11.399916844759234
+3,NoConstraint-Mismatch,"While an employee baked her some cookies,",Michael,11.593524430536597
+4,Constraint-Match,"After lifting him onto the bus,",Michael,10.529304017917665
+4,Constraint-Mismatch,"After lifting her onto the bus,",Michael,11.617492461526318
+4,NoConstraint-Match,"After an orderly lifted him onto the bus,",Michael,11.079214930497802
+4,NoConstraint-Mismatch,"After an orderly lifted her onto the bus,",Michael,11.859885766725682
+5,Constraint-Match,"Before interrogating him about the crime,",Michael,10.615078345192355
+5,Constraint-Mismatch,"Before interrogating her about the crime,",Michael,10.457988846917692
+5,NoConstraint-Match,"Before an officer interrogated him about the crime,",Michael,10.859727369251331
+5,NoConstraint-Mismatch,"Before an officer interrogated her about the crime,",Michael,11.892360034435148
+6,Constraint-Match,"After embarassing him during the party,",Michael,9.937683873816995
+6,Constraint-Mismatch,"After embarassing her during the party,",Michael,12.173559064212432
+6,NoConstraint-Match,"After a guest embarassed him during the party,",Michael,9.1051498638504
+6,NoConstraint-Mismatch,"After a guest embarassed her during the party,",Michael,10.842523840672955
+7,Constraint-Match,"While helping him shred the documents,",Jonathan,12.241297645715486
+7,Constraint-Mismatch,"While helping her shred the documents,",Jonathan,14.142638844872483
+7,NoConstraint-Match,"While an intern helped him shred the documents,",Jonathan,13.43753361169507
+7,NoConstraint-Mismatch,"While an intern helped her shred the documents,",Jonathan,13.481307229071348
+8,Constraint-Match,"While reading him a bedtime story,",Jonathan,15.365989310369088
+8,Constraint-Mismatch,"While reading her a bedtime story,",Jonathan,15.745203187958207
+8,NoConstraint-Match,"While someone read him a bedtime story,",Jonathan,14.985677755315193
+8,NoConstraint-Mismatch,"While someone read her a bedtime story,",Jonathan,15.982642407365818
+9,Constraint-Match,"After cornerning him next to the watercooler,",Jonathan,13.207293196675758
+9,Constraint-Mismatch,"After cornerning her next to the watercooler,",Jonathan,12.817730990391402
+9,NoConstraint-Match,"After a colleague cornerned him next to the watercooler,",Jonathan,13.03262957020887
+9,NoConstraint-Mismatch,"After a colleague cornerned her next to the watercooler,",Jonathan,13.589664981695242
+10,Constraint-Match,"After weighing him on the scale,",Jonathan,14.99721622455835
+10,Constraint-Mismatch,"After weighing her on the scale,",Jonathan,14.371332865013906
+10,NoConstraint-Match,"After a nurse weighed him on the scale,",Jonathan,13.806749734571046
+10,NoConstraint-Mismatch,"After a nurse weighed her on the scale,",Jonathan,14.751889870642858
+11,Constraint-Match,"Before spotting him at yoga class,",Jonathan,13.700847750931546
+11,Constraint-Mismatch,"Before spotting her at yoga class,",Jonathan,12.20871527057006
+11,NoConstraint-Match,"Before anyone spotted him at yoga class,",Jonathan,14.966421398001694
+11,NoConstraint-Mismatch,"Before anyone spotted her at yoga class,",Jonathan,15.506297708842864
+12,Constraint-Match,"Before visiting him on Sunday afternoons,",Jonathan,13.237587443949407
+12,Constraint-Mismatch,"Before visiting her on Sunday afternoons,",Jonathan,12.440352642342772
+12,NoConstraint-Match,"Before friends visited him on Sunday afternoons,",Jonathan,11.051704604641516
+12,NoConstraint-Mismatch,"Before friends visited her on Sunday afternoons,",Jonathan,12.346450429991249
+13,Constraint-Match,"After having her in multiple classes,",Jessica,12.140236610693627
+13,Constraint-Mismatch,"After having him in multiple classes,",Jessica,16.945054265644018
+13,NoConstraint-Match,"After a professor had her in multiple classes,",Jessica,14.805933025494548
+13,NoConstraint-Mismatch,"After a professor had him in multiple classes,",Jessica,16.352264808385016
+14,Constraint-Match,"After buying her a pumpkin-spice latte,",Jessica,8.904837380619458
+14,Constraint-Mismatch,"After buying him a pumpkin-spice latte,",Jessica,13.29480616213412
+14,NoConstraint-Match,"After a stranger bought her a pumpkin-spice latte,",Jessica,9.158884107256823
+14,NoConstraint-Mismatch,"After a stranger bought him a pumpkin-spice latte,",Jessica,11.341543879899076
+15,Constraint-Match,"While writing her a reminder note,",Jessica,11.458500042225817
+15,Constraint-Mismatch,"While writing him a reminder note,",Jessica,14.547704708189986
+15,NoConstraint-Match,"While someone wrote her a reminder note,",Jessica,15.20420050744379
+15,NoConstraint-Mismatch,"While someone wrote him a reminder note,",Jessica,17.132379545088163
+16,Constraint-Match,"After pouring her some hot tea,",Jessica,9.776445002251757
+16,Constraint-Mismatch,"After pouring him some hot tea,",Jessica,13.483403409042756
+16,NoConstraint-Match,"After a waiter poured her some hot tea,",Jessica,10.76914632405312
+16,NoConstraint-Mismatch,"After a waiter poured him some hot tea,",Jessica,13.047472197857115
+17,Constraint-Match,"After leaving her a voice message,",Jessica,9.373943882602154
+17,Constraint-Mismatch,"After leaving him a voice message,",Jessica,11.582455710947691
+17,NoConstraint-Match,"After a volunteer left her a voice message,",Jessica,10.706605673344813
+17,NoConstraint-Mismatch,"After a volunteer left him a voice message,",Jessica,12.243504146650249
+18,Constraint-Match,"After sending her a thank-you note,",Jessica,9.961937039829571
+18,Constraint-Mismatch,"After sending him a thank-you note,",Jessica,12.730229392057906
+18,NoConstraint-Match,"After someone sent her a thank-you note,",Jessica,12.69074196165099
+18,NoConstraint-Mismatch,"After someone sent him a thank-you note,",Jessica,15.405435969816208
+19,Constraint-Match,"Before taking her on the rollercoaster,",Rachel,9.455061147036519
+19,Constraint-Mismatch,"Before taking him on the rollercoaster,",Rachel,14.377338963309892
+19,NoConstraint-Match,"Before a chaperone took her kids on the rollercoaster,",Rachel,10.163930280653325
+19,NoConstraint-Mismatch,"Before a chaperone took his kids on the rollercoaster,",Rachel,11.68889696638079
+20,Constraint-Match,"After taking her to a social event,",Rachel,9.155756467318275
+20,Constraint-Mismatch,"After taking him to a social event,",Rachel,11.874288576093669
+20,NoConstraint-Match,"After the roommates took her to a social event,",Rachel,10.601896056166902
+20,NoConstraint-Mismatch,"After the roommates took him to a social event,",Rachel,11.793467008886411
+21,Constraint-Match,"Before showing her any new paintings,",Rachel,9.964102487622645
+21,Constraint-Mismatch,"Before showing him any new paintings,",Rachel,13.223111000458506
+21,NoConstraint-Match,"Before auctioneers showed her any new paintings,",Rachel,11.088121459388988
+21,NoConstraint-Mismatch,"Before auctioneers showed him any new paintings,",Rachel,14.14661743209261
+22,Constraint-Match,"After nominating her for class president,",Rachel,10.153103188944124
+22,Constraint-Mismatch,"After nominating him for class president,",Rachel,13.000008943125563
+22,NoConstraint-Match,"After a student nominated her for class president,",Rachel,8.860737509792491
+22,NoConstraint-Mismatch,"After a student nominated him for class president,",Rachel,12.136436894781367
+23,Constraint-Match,"After watching her on the Voice,",Rachel,10.482911916762756
+23,Constraint-Mismatch,"After watching him on the Voice,",Rachel,14.987853919281559
+23,NoConstraint-Match,"After everyone watched her on the Voice,",Rachel,9.348975251310012
+23,NoConstraint-Mismatch,"After everyone watched him on the Voice,",Rachel,11.903162940563584
+24,Constraint-Match,"Before sending her the secret contract,",Rachel,12.663734947986587
+24,Constraint-Mismatch,"Before sending him the secret contract,",Rachel,15.252315195012793
+24,NoConstraint-Match,"Before a secretary sent her the secret contract,",Rachel,10.524047560920843
+24,NoConstraint-Mismatch,"Before a secretary sent him the secret contract,",Rachel,13.130825079437495
