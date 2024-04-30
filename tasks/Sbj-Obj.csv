@@ -1,0 +1,113 @@
+Item,Condition,Context,Target
+1,SBJ-Match,"While he was taking the orders,",Michael
+1,SBJ-Mismatch,"While she was taking the orders,",Michael
+1,OBJ-Match,"While he was taking the orders, a couple of customers annoyed",Michael
+1,OBJ-Mismatch,"While she was taking the orders, a couple of customers annoyed",Michael
+2,SBJ-Match,"After he had read the report,",Michael
+2,SBJ-Mismatch,"After she had read the report,",Michael
+2,OBJ-Match,"After he had read the report, a couple of employees accompanied",Michael
+2,OBJ-Mismatch,"After she had read the report, a couple of employees accompanied",Michael
+3,SBJ-Match,"As soon as he arrived at the station,",Michael
+3,SBJ-Mismatch,"As soon as she arrived at the station,",Michael
+3,OBJ-Match,"As soon as he arrived at the station, multiple investigators interrogated",Michael
+3,OBJ-Mismatch,"As soon as she arrived at the station, multiple investigators interrogated",Michael
+4,SBJ-Match,"While he was moving into the building,",Michael
+4,SBJ-Mismatch,"While she was moving into the building,",Michael
+4,OBJ-Match,"While he was moving into the building, a group of tenants informed",Michael
+4,OBJ-Mismatch,"While she was moving into the building, a group of tenants informed",Michael
+5,SBJ-Match,"When he got caught stealing,",Michael
+5,SBJ-Mismatch,"When she got caught stealing,",Michael
+5,OBJ-Match,"When he got caught stealing, all of the fifth-graders promised",Michael
+5,OBJ-Mismatch,"When she got caught stealing, all of the fifth-graders promised",Michael
+6,SBJ-Match,"While he prepared the presentation,",Michael
+6,SBJ-Mismatch,"While she prepared the presentation,",Michael
+6,OBJ-Match,"While he prepared the presentation, a number of colleagues lectured",Michael
+6,OBJ-Mismatch,"While she prepared the presentation, a number of colleagues lectured",Michael
+7,SBJ-Match,"After he turned up the volume,",Michael
+7,SBJ-Mismatch,"After she turned up the volume,",Michael
+7,OBJ-Match,"After he turned up the volume, some of the dancers signaled to",Michael
+7,OBJ-Mismatch,"After she turned up the volume, some of the dancers signaled to",Michael
+8,SBJ-Match,"As he walked out of the exhibition,",Jonathan
+8,SBJ-Mismatch,"As she walked out of the exhibition,",Jonathan
+8,OBJ-Match,"As he walked out of the exhibition, a group of tourists asked",Jonathan
+8,OBJ-Mismatch,"As she walked out of the exhibition, a group of tourists asked",Jonathan
+9,SBJ-Match,"While he struggled through the script,",Jonathan
+9,SBJ-Mismatch,"While she struggled through the script,",Jonathan
+9,OBJ-Match,"While he struggled through the script, members of the cast complained to",Jonathan
+9,OBJ-Mismatch,"While she struggled through the script, members of the cast complained to",Jonathan
+10,SBJ-Match,"When he was off duty,",Jonathan
+10,SBJ-Mismatch,"When she was off duty,",Jonathan
+10,OBJ-Match,"When he was off duty, some of the investigators contacted",Jonathan
+10,OBJ-Mismatch,"When she was off duty, some of the investigators contacted",Jonathan
+11,SBJ-Match,"After he got up to dance,",Jonathan
+11,SBJ-Mismatch,"After she got up to dance,",Jonathan
+11,OBJ-Match,"After he got up to dance, several guests teased",Jonathan
+11,OBJ-Mismatch,"After she got up to dance, several guests teased",Jonathan
+12,SBJ-Match,"After he posted the video,",Jonathan
+12,SBJ-Mismatch,"After she posted the video,",Jonathan
+12,OBJ-Match,"After he posted the video, a few mean commentors humiliated",Jonathan
+12,OBJ-Mismatch,"After she posted the video, a few mean commentors humiliated",Jonathan
+13,SBJ-Match,"While he weighed the jewellery,",Jonathan
+13,SBJ-Mismatch,"While she weighed the jewellery,",Jonathan
+13,OBJ-Match,"While he weighed the jewellery, a few customers asked",Jonathan
+13,OBJ-Mismatch,"While she weighed the jewellery, a few customers asked",Jonathan
+14,SBJ-Match,"When he arrived at football practice,",Jonathan
+14,SBJ-Mismatch,"When she arrived at football practice,",Jonathan
+14,OBJ-Match,"When he arrived at football practice, some of the players waved to",Jonathan
+14,OBJ-Mismatch,"When she arrived at football practice, some of the players waved to",Jonathan
+15,SBJ-Match,"After she put out the campfire,",Jessica
+15,SBJ-Mismatch,"After he put out the campfire,",Jessica
+15,OBJ-Match,"After she put out the campfire, some of the schoolboys dared",Jessica
+15,OBJ-Mismatch,"After he put out the campfire, some of the schoolboys dared",Jessica
+16,SBJ-Match,"After she had resigned,",Jessica
+16,SBJ-Mismatch,"After he had resigned,",Jessica
+16,OBJ-Match,"After she had resigned, multiple lobbyists discouraged",Jessica
+16,OBJ-Mismatch,"After he had resigned, multiple lobbyists discouraged",Jessica
+17,SBJ-Match,"As soon as she got back to school,",Jessica
+17,SBJ-Mismatch,"As soon as he got back to school,",Jessica
+17,OBJ-Match,"As soon as she got back to school, some students accused",Jessica
+17,OBJ-Mismatch,"As soon as he got back to school, some students accused",Jessica
+18,SBJ-Match,"When she came back from lunch,",Jessica
+18,SBJ-Mismatch,"When he came back from lunch,",Jessica
+18,OBJ-Match,"When she came back from lunch, some of the interns avoided",Jessica
+18,OBJ-Mismatch,"When he came back from lunch, some of the interns avoided",Jessica
+19,SBJ-Match,"As she was leaving the concert hall,",Jessica
+19,SBJ-Mismatch,"As he was leaving the concert hall,",Jessica
+19,OBJ-Match,"As she was leaving the concert hall, countless journalists questioned",Jessica
+19,OBJ-Mismatch,"As he was leaving the concert hall, countless journalists questioned",Jessica
+20,SBJ-Match,"While she waited for the bus,",Jessica
+20,SBJ-Mismatch,"While he waited for the bus,",Jessica
+20,OBJ-Match,"While she waited for the bus, various commuters warned",Jessica
+20,OBJ-Mismatch,"While he waited for the bus, various commuters warned",Jessica
+21,SBJ-Match,"When she entered the church,",Jessica
+21,SBJ-Mismatch,"When he entered the church,",Jessica
+21,OBJ-Match,"When she entered the church, a handful of churchgoers criticized",Jessica
+21,OBJ-Mismatch,"When he entered the church, a handful of churchgoers criticized",Jessica
+22,SBJ-Match,"After she heard the verdict,",Rachel
+22,SBJ-Mismatch,"After he heard the verdict,",Rachel
+22,OBJ-Match,"After she heard the verdict, a number of supporters consoled",Rachel
+22,OBJ-Mismatch,"After he heard the verdict, a number of supporters consoled",Rachel
+23,SBJ-Match,"After she had finished cooking,",Rachel
+23,SBJ-Mismatch,"After he had finished cooking,",Rachel
+23,OBJ-Match,"After she had finished cooking, a few friends helped",Rachel
+23,OBJ-Mismatch,"After he had finished cooking, a few friends helped",Rachel
+24,SBJ-Match,"After she had spoken,",Rachel
+24,SBJ-Mismatch,"After he had spoken,",Rachel
+24,OBJ-Match,"After she had spoken, seven guards escorted",Rachel
+24,OBJ-Mismatch,"After he had spoken, seven guards escorted",Rachel
+25,SBJ-Match,"While she waited backstage,",Rachel
+25,SBJ-Mismatch,"While he waited backstage,",Rachel
+25,OBJ-Match,"While she waited backstage, several models congratulated",Rachel
+25,OBJ-Mismatch,"While he waited backstage, several models congratulated",Rachel
+26,SBJ-Match,"While she was mowing the lawn,",Rachel
+26,SBJ-Mismatch,"While he was mowing the lawn,",Rachel
+26,OBJ-Match,"While she was mowing the lawn, a number of neighbors waved at",Rachel
+26,OBJ-Mismatch,"While he was mowing the lawn, a number of neighbors waved at",Rachel
+27,SBJ-Match,"After she was elected,",Rachel
+27,SBJ-Mismatch,"After he was elected,",Rachel
+27,OBJ-Match,"After she was elected, many other politicians convinced",Rachel
+27,OBJ-Mismatch,"After he was elected, many other politicians convinced",Rachel
+28,SBJ-Match,"When she got to the construction site,",Rachel
+28,SBJ-Mismatch,"When he got to the construction site,",Rachel
+28,OBJ-Match,"When she got to the construction site, a lot of workers approached",Rachel
+28,OBJ-Mismatch,"When he got to the construction site, a lot of workers approached",Rachel
