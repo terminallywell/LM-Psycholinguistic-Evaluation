@@ -17,7 +17,7 @@ causal_models = [
     'google/gemma-2b',
 ]
 
-MODEL_NAME = causal_models[2]
+MODEL_NAME = causal_models[4]
 
 # initializing tokenizer and model
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, token=TOKEN)
@@ -31,10 +31,10 @@ def surp_next(context, word):
 
 task_list = [
     'PrincipleB',
-    'Sbj_Obj'
+    'Sbj-Obj'
 ]
 
-TASK = task_list[0]
+TASK = task_list[1]
 
 
 ###############################
