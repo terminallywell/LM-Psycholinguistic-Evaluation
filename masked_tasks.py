@@ -1,6 +1,7 @@
 # To delete cached models, run command: huggingface-cli delete-cache
 
-from transformers import AutoTokenizer, pipeline
+import pandas as pd
+from transformers import AutoTokenizer, pipeline, DebertaTokenizer
 from masked import prob_mask
 
 # save your huggingface token as token.txt in your folder
@@ -9,35 +10,34 @@ with open('token.txt', encoding='utf8') as file:
 
 # list of hugging face models
 masked_models = [
-    'FacebookAI/roberta-large',
-    'FacebookAI/roberta-base',
     'distilbert/distilbert-base-uncased',
     'google-bert/bert-base-uncased',
+    'FacebookAI/roberta-base',
+    'FacebookAI/roberta-large',
 ]
 
-MODEL_NAME = masked_models[1]
 
-# initializing tokenizer and pipeline
-tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, token=TOKEN)
-MASK = tokenizer.mask_token
-fill_masker = pipeline(model=MODEL_NAME, token=TOKEN)
+task_list = [
+    'Attraction',
+]
 
 
-
-# tests
-prob_mask(fill_masker, f'Hi, my name is {MASK}. Nice to meet you.', 'Alex')
-
-
-for inter in ['cabinet', 'cabinets']:
-    for verb in ['was', 'were']:
-        context = f'The key to the {inter} {MASK} rusty from many years of disuse.'
-        surprisal = prob_mask(fill_masker, context, verb, True)
-        print(f'Surprisal of "{verb}" in "{context}": {surprisal:.3f}')
+TASK = task_list[0]
+data = pd.read_csv(f'tasks/{TASK}.csv')
 
 
-prob_mask(fill_masker, f'Give a man a fish, and you feed {MASK} for a day.', 'him', False)
-prob_mask(fill_masker, f'Give a man a fish, and you feed {MASK} for a day.', 'her', False)
-prob_mask(fill_masker, f'Give a woman a fish, and you feed {MASK} for a day.', 'him', False)
-prob_mask(fill_masker, f'Give a woman a fish, and you feed {MASK} for a day.', 'her', False)
+def surp_mask(context, word):
+    return prob_mask(fill_masker, context, word, True)
 
-prob_mask(fill_masker, f'What do you {MASK} of my new dress?.', 'think', False)
+###############################
+if __name__ == '__main__':
+    for modelname in masked_models:
+        # initializing tokenizer and pipeline
+        tokenizer = AutoTokenizer.from_pretrained(modelname, token=TOKEN)
+        MASK = tokenizer.mask_token
+        fill_masker = pipeline(model=modelname, token=TOKEN)
+
+        # execute task & record results
+        data['Surprisal'] = data.apply(lambda row: surp_mask(row['Context'].format(MASK), row['Target']), axis=1)
+        data.to_csv(f'results/{TASK}_{modelname.split('/')[1]}.csv', index=False)
+        print('Finished:', modelname)

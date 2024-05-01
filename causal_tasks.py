@@ -17,28 +17,27 @@ causal_models = [
     'google/gemma-2b',
 ]
 
-MODEL_NAME = causal_models[4]
-
-# initializing tokenizer and model
-tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, token=TOKEN)
-model = AutoModelForCausalLM.from_pretrained(MODEL_NAME, token=TOKEN)
-model.eval()
-
-
-# next-word surprisal tasks
-def surp_next(context, word):
-    return prob_next(tokenizer, model, context, word, True)
-
 task_list = [
     'PrincipleB',
     'Sbj-Obj'
 ]
 
-TASK = task_list[1]
+TASK = task_list[0]
+data = pd.read_csv(f'tasks/{TASK}.csv')
 
+
+def surp_next(context, word):
+    return prob_next(tokenizer, model, context, word, True)
 
 ###############################
-# execute task & record results
-task = pd.read_csv(f'tasks/{TASK}.csv', index_col=0)
-task['Surprisal'] = task.apply(lambda row: surp_next(row['Context'], row['Target']), axis=1)
-task.to_csv(f'results/{TASK}_{MODEL_NAME.split('/')[1]}.csv')
+if __name__ == '__main__':
+    for modelname in causal_models:
+        # initializing tokenizer and model
+        tokenizer = AutoTokenizer.from_pretrained(modelname, token=TOKEN)
+        model = AutoModelForCausalLM.from_pretrained(modelname, token=TOKEN)
+        model.eval()
+
+        # execute task & record results
+        data['Surprisal'] = data.apply(lambda row: surp_next(row['Context'], row['Target']), axis=1)
+        data.to_csv(f'results/{TASK}_{modelname.split('/')[1]}.csv', index=False)
+        print('Finished:', modelname)

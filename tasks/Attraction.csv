@@ -1,0 +1,385 @@
+Item,Type,DistNum,TargetNum,Context,Target
+1,Verbal,SG,SG,The tall nurse who cared for the elderly widow definitely {} reluctant to work long shifts.,was
+1,Verbal,SG,PL,The tall nurse who cared for the elderly widow definitely {} reluctant to work long shifts.,were
+1,Verbal,PL,SG,The tall nurse who cared for the elderly widows definitely {} reluctant to work long shifts.,was
+1,Verbal,PL,PL,The tall nurse who cared for the elderly widows definitely {} reluctant to work long shifts.,were
+1,Reflexive,SG,SG,The tall nurse who cared for the elderly widow definitely pricked {} with a used syringe.,herself
+1,Reflexive,SG,PL,The tall nurse who cared for the elderly widow definitely pricked {} with a used syringe.,themselves
+1,Reflexive,PL,SG,The tall nurse who cared for the elderly widows definitely pricked {} with a used syringe.,herself
+1,Reflexive,PL,PL,The tall nurse who cared for the elderly widows definitely pricked {} with a used syringe.,themselves
+2,Verbal,SG,SG,The legendary diva who sang with the graceful harpist clearly {} flawless on the high notes.,was
+2,Verbal,SG,PL,The legendary diva who sang with the graceful harpist clearly {} flawless on the high notes.,were
+2,Verbal,PL,SG,The legendary diva who sang with the graceful harpists clearly {} flawless on the high notes.,was
+2,Verbal,PL,PL,The legendary diva who sang with the graceful harpists clearly {} flawless on the high notes.,were
+2,Reflexive,SG,SG,The legendary diva who sang with the graceful harpist clearly presented {} with lots of fanfare.,herself
+2,Reflexive,SG,PL,The legendary diva who sang with the graceful harpist clearly presented {} with lots of fanfare.,themselves
+2,Reflexive,PL,SG,The legendary diva who sang with the graceful harpists clearly presented {} with lots of fanfare.,herself
+2,Reflexive,PL,PL,The legendary diva who sang with the graceful harpists clearly presented {} with lots of fanfare.,themselves
+3,Verbal,SG,SG,The nice beautician who advised the beauty queen probably {} happy about having more business.,was
+3,Verbal,SG,PL,The nice beautician who advised the beauty queen probably {} happy about having more business.,were
+3,Verbal,PL,SG,The nice beautician who advised the beauty queens probably {} happy about having more business.,was
+3,Verbal,PL,PL,The nice beautician who advised the beauty queens probably {} happy about having more business.,were
+3,Reflexive,SG,SG,The nice beautician who advised the beauty queen probably dabbed {} with imported French perfume.,herself
+3,Reflexive,SG,PL,The nice beautician who advised the beauty queen probably dabbed {} with imported French perfume.,themselves
+3,Reflexive,PL,SG,The nice beautician who advised the beauty queens probably dabbed {} with imported French perfume.,herself
+3,Reflexive,PL,PL,The nice beautician who advised the beauty queens probably dabbed {} with imported French perfume.,themselves
+4,Verbal,SG,SG,The talented hairdresser who worked with the friendly manicurist obviously {} popular with the regular customers.,was
+4,Verbal,SG,PL,The talented hairdresser who worked with the friendly manicurist obviously {} popular with the regular customers.,were
+4,Verbal,PL,SG,The talented hairdresser who worked with the friendly manicurists obviously {} popular with the regular customers.,was
+4,Verbal,PL,PL,The talented hairdresser who worked with the friendly manicurists obviously {} popular with the regular customers.,were
+4,Reflexive,SG,SG,The talented hairdresser who worked with the friendly manicurist obviously cut {} with some rusty scissors.,herself
+4,Reflexive,SG,PL,The talented hairdresser who worked with the friendly manicurist obviously cut {} with some rusty scissors.,themselves
+4,Reflexive,PL,SG,The talented hairdresser who worked with the friendly manicurists obviously cut {} with some rusty scissors.,herself
+4,Reflexive,PL,PL,The talented hairdresser who worked with the friendly manicurists obviously cut {} with some rusty scissors.,themselves
+5,Verbal,SG,SG,The artsy florist who helped the elegant designer unfortunately {} distraught over an upcoming funeral.,was
+5,Verbal,SG,PL,The artsy florist who helped the elegant designer unfortunately {} distraught over an upcoming funeral.,were
+5,Verbal,PL,SG,The artsy florist who helped the elegant designers unfortunately {} distraught over an upcoming funeral.,was
+5,Verbal,PL,PL,The artsy florist who helped the elegant designers unfortunately {} distraught over an upcoming funeral.,were
+5,Reflexive,SG,SG,The artsy florist who helped the elegant designer unfortunately nicked {} on a rose thorn.,herself
+5,Reflexive,SG,PL,The artsy florist who helped the elegant designer unfortunately nicked {} on a rose thorn.,themselves
+5,Reflexive,PL,SG,The artsy florist who helped the elegant designers unfortunately nicked {} on a rose thorn.,herself
+5,Reflexive,PL,PL,The artsy florist who helped the elegant designers unfortunately nicked {} on a rose thorn.,themselves
+6,Verbal,SG,SG,The nimble gymnast who studied with the female coach certainly {} unable to make a graceful landing.,was
+6,Verbal,SG,PL,The nimble gymnast who studied with the female coach certainly {} unable to make a graceful landing.,were
+6,Verbal,PL,SG,The nimble gymnast who studied with the female coaches certainly {} unable to make a graceful landing.,was
+6,Verbal,PL,PL,The nimble gymnast who studied with the female coaches certainly {} unable to make a graceful landing.,were
+6,Reflexive,SG,SG,The nimble gymnast who studied with the female coach certainly bruised {} on the uneven bars.,herself
+6,Reflexive,SG,PL,The nimble gymnast who studied with the female coach certainly bruised {} on the uneven bars.,themselves
+6,Reflexive,PL,SG,The nimble gymnast who studied with the female coaches certainly bruised {} on the uneven bars.,herself
+6,Reflexive,PL,PL,The nimble gymnast who studied with the female coaches certainly bruised {} on the uneven bars.,themselves
+7,Verbal,SG,SG,The midwife who attended to the expectant mothers probably {} committed promoting natural childbirth.,was
+7,Verbal,SG,PL,The midwife who attended to the expectant mother probably {} committed to promoting natural childbirth.,were
+7,Verbal,PL,SG,The midwife who attended to the expectant mothers probably {} committed to promoting natural childbirth.,was
+7,Verbal,PL,PL,The midwife who attended to the expectant mothers probably {} committed to promoting natural childbirth.,were
+7,Reflexive,SG,SG,The midwife who attended to the expectant mother probably supported {} with private childbirth consultations.,herself
+7,Reflexive,SG,PL,The midwife who attended to the expectant mother probably supported {} with private childbirth consultations.,themselves
+7,Reflexive,PL,SG,The midwife who attended to the expectant mothers probably supported {} with private childbirth consultations.,herself
+7,Reflexive,PL,PL,The midwife who attended to the expectant mothers probably supported {} with private childbirth consultations.,themselves
+8,Verbal,SG,SG,The new mother who interviewed the teenage babysitters definitely {} careful careful to do a full background check.,was
+8,Verbal,SG,PL,The new mother who interviewed the teenage babysitter definitely {} careful to do a full background check.,were
+8,Verbal,PL,SG,The new mother who interviewed the teenage babysitters definitely {} careful to do a full background check.,was
+8,Verbal,PL,PL,The new mother who interviewed the teenage babysitters definitely {} careful to do a full background check.,were
+8,Reflexive,SG,SG,The new mother who interviewed the teenage babysitter definitely stressed {} out in the process.,herself
+8,Reflexive,SG,PL,The new mother who interviewed the teenage babysitter definitely stressed {} out in the process.,themselves
+8,Reflexive,PL,SG,The new mother who interviewed the teenage babysitters definitely stressed {} out in the process.,herself
+8,Reflexive,PL,PL,The new mother who interviewed the teenage babysitters definitely stressed {} out in the process.,themselves
+9,Verbal,SG,SG,The quick typist who assisted the female lawyer clearly {} doubtful of the quality of the office computers.,was
+9,Verbal,SG,PL,The quick typist who assisted the female lawyer clearly {} doubtful of the quality of the office computers.,were
+9,Verbal,PL,SG,The quick typist who assisted the female lawyers clearly {} doubtful of the quality of the office computers.,was
+9,Verbal,PL,PL,The quick typist who assisted the female lawyers clearly {} doubtful of the quality of the office computers.,were
+9,Reflexive,SG,SG,The quick typist who assisted the female lawyer clearly trusted {} to organize the office.,herself
+9,Reflexive,SG,PL,The quick typist who assisted the female lawyer clearly trusted {} to organize the office.,themselves
+9,Reflexive,PL,SG,The quick typist who assisted the female lawyers clearly trusted {} to organize the office.,herself
+9,Reflexive,PL,PL,The quick typist who assisted the female lawyers clearly trusted {} to organize the office.,themselves
+10,Verbal,SG,SG,The stern librarian who glared at the little girls probably {} irritated irritated about the unruly visitors.,was
+10,Verbal,SG,PL,The stern librarian who glared at the little girl probably {} irritated about the unruly visitors.,were
+10,Verbal,PL,SG,The stern librarian who glared at the little girls probably {} irritated about the unruly visitors.,was
+10,Verbal,PL,PL,The stern librarian who glared at the little girls probably {} irritated about the unruly visitors.,were
+10,Reflexive,SG,SG,The stern librarian who glared at the loud child probably amused {} by reorganizing the books.,herself
+10,Reflexive,SG,PL,The stern librarian who glared at the loud child probably amused {} by reorganizing the books.,themselves
+10,Reflexive,PL,SG,The stern librarian who glared at the loud children probably amused {} by reorganizing the books.,herself
+10,Reflexive,PL,PL,The stern librarian who glared at the loud children probably amused {} by reorganizing the books.,themselves
+11,Verbal,SG,SG,The aging nun who taught the young choirgirls definitely {} anxious retire very soon.,was
+11,Verbal,SG,PL,The aging nun who taught the young choirgirl definitely {} anxious to retire very soon.,were
+11,Verbal,PL,SG,The aging nun who taught the young choirgirls definitely {} anxious to retire very soon.,was
+11,Verbal,PL,PL,The aging nun who taught the young choirgirls definitely {} anxious to retire very soon.,were
+11,Reflexive,SG,SG,The aging nun who taught the young choirgirl definitely exhausted {} by teaching too much.,herself
+11,Reflexive,SG,PL,The aging nun who taught the young choirgirl definitely exhausted {} by teaching too much.,themselves
+11,Reflexive,PL,SG,The aging nun who taught the young choirgirls definitely exhausted {} by teaching too much.,herself
+11,Reflexive,PL,PL,The aging nun who taught the young choirgirls definitely exhausted {} by teaching too much.,themselves
+12,Verbal,SG,SG,The strict nanny who babysat the well-behaved schoolgirl evidently {} reluctant to spank bad children.,was
+12,Verbal,SG,PL,The strict nanny who babysat the well-behaved schoolgirl evidently {} reluctant to spank bad children.,were
+12,Verbal,PL,SG,The strict nanny who babysat the well-behaved schoolgirls evidently {} reluctant to spank bad children.,was
+12,Verbal,PL,PL,The strict nanny who babysat the well-behaved schoolgirls evidently {} reluctant to spank bad children.,were
+12,Reflexive,SG,SG,The strict nanny who babysat the well-behaved schoolgirl evidently burned {} preparing a hot soup.,herself
+12,Reflexive,SG,PL,The strict nanny who babysat the well-behaved schoolgirl evidently burned {} preparing a hot soup.,themselves
+12,Reflexive,PL,SG,The strict nanny who babysat the well-behaved schoolgirls evidently burned {} preparing a hot soup.,herself
+12,Reflexive,PL,PL,The strict nanny who babysat the well-behaved schoolgirls evidently burned {} preparing a hot soup.,themselves
+13,Verbal,SG,SG,The dramatic actress who promoted the opera singer apparently {} excited about the upcoming season.,was
+13,Verbal,SG,PL,The dramatic actress who promoted the opera singer apparently {} excited about the upcoming season.,were
+13,Verbal,PL,SG,The dramatic actress who promoted the opera singers apparently {} excited about the upcoming season.,was
+13,Verbal,PL,PL,The dramatic actress who promoted the opera singers apparently {} excited about the upcoming season.,were
+13,Reflexive,SG,SG,The dramatic actress who promoted the opera singer apparently volunteered {} for a television commerical.,herself
+13,Reflexive,SG,PL,The dramatic actress who promoted the opera singer apparently volunteered {} for a television commerical.,themselves
+13,Reflexive,PL,SG,The dramatic actress who promoted the opera singers apparently volunteered {} for a television commerical.,herself
+13,Reflexive,PL,PL,The dramatic actress who promoted the opera singers apparently volunteered {} for a television commerical.,themselves
+14,Verbal,SG,SG,The nimble ballerina who danced with the jazz dancers clearly {} skilled skilled in many dance techniques.,was
+14,Verbal,SG,PL,The nimble ballerina who danced with the jazz dancer clearly {} skilled in many dance techniques.,were
+14,Verbal,PL,SG,The nimble ballerina who danced with the jazz dancers clearly {} skilled in many dance techniques.,was
+14,Verbal,PL,PL,The nimble ballerina who danced with the jazz dancers clearly {} skilled in many dance techniques.,were
+14,Reflexive,SG,SG,The nimble ballerina who danced with the jazz dancer clearly disoriented {} with the complicated dance.,herself
+14,Reflexive,SG,PL,The nimble ballerina who danced with the jazz dancer clearly disoriented {} with the complicated dance.,themselves
+14,Reflexive,PL,SG,The nimble ballerina who danced with the jazz dancers clearly disoriented {} with the complicated dance.,herself
+14,Reflexive,PL,PL,The nimble ballerina who danced with the jazz dancers clearly disoriented {} with the complicated dance.,themselves
+15,Verbal,SG,SG,The evil witch who stalked the royal princesses supposedly {} prepared curse the royal family.,was
+15,Verbal,SG,PL,The evil witch who stalked the royal princess supposedly {} prepared to curse the royal family.,were
+15,Verbal,PL,SG,The evil witch who stalked the royal princesses supposedly {} prepared to curse the royal family.,was
+15,Verbal,PL,PL,The evil witch who stalked the royal princesses supposedly {} prepared to curse the royal family.,were
+15,Reflexive,SG,SG,The evil witch who stalked the royal princess supposedly poisoned {} with a cursed apple.,herself
+15,Reflexive,SG,PL,The evil witch who stalked the royal princess supposedly poisoned {} with a cursed apple.,themselves
+15,Reflexive,PL,SG,The evil witch who stalked the royal princesses supposedly poisoned {} with a cursed apple.,herself
+15,Reflexive,PL,PL,The evil witch who stalked the royal princesses supposedly poisoned {} with a cursed apple.,themselves
+16,Verbal,SG,SG,The hard-working maid who chastised the lazy housekeeper probably {} angry about doing other people's work.,was
+16,Verbal,SG,PL,The hard-working maid who chastised the lazy housekeeper probably {} angry about doing other people's work.,were
+16,Verbal,PL,SG,The hard-working maid who chastised the lazy housekeepers probably {} angry about doing other people's work.,was
+16,Verbal,PL,PL,The hard-working maid who chastised the lazy housekeepers probably {} angry about doing other people's work.,were
+16,Reflexive,SG,SG,The hard-working maid who chastised the lazy housekeeper probably upset {} from doing other people's work.,herself
+16,Reflexive,SG,PL,The hard-working maid who chastised the lazy housekeeper probably upset {} from doing other people's work.,themselves
+16,Reflexive,PL,SG,The hard-working maid who chastised the lazy housekeepers probably upset {} from doing other people's work.,herself
+16,Reflexive,PL,PL,The hard-working maid who chastised the lazy housekeepers probably upset {} from doing other people's work.,themselves
+17,Verbal,SG,SG,The kindergarten teacher who lectured the young girl clearly {} friendly to the young students.,was
+17,Verbal,SG,PL,The kindergarten teacher who lectured the young girl clearly {} friendly to the young students.,were
+17,Verbal,PL,SG,The kindergarten teacher who lectured the young girls clearly {} friendly to the young students.,was
+17,Verbal,PL,PL,The kindergarten teacher who lectured the young girls clearly {} friendly to the young students.,were
+17,Reflexive,SG,SG,The kindergarten teacher who lectured the young girl clearly prepared {} thoroughly for each lesson.,herself
+17,Reflexive,SG,PL,The kindergarten teacher who lectured the young girl clearly prepared {} thoroughly for each lesson.,themselves
+17,Reflexive,PL,SG,The kindergarten teacher who lectured the young girls clearly prepared {} thoroughly for each lesson.,herself
+17,Reflexive,PL,PL,The kindergarten teacher who lectured the young girls clearly prepared {} thoroughly for each lesson.,themselves
+18,Verbal,SG,SG,The respected feminist who advised the powerful congresswoman obviously {} supportive of progressive political views.,was
+18,Verbal,SG,PL,The respected feminist who advised the powerful congresswoman obviously {} supportive of progressive political views.,were
+18,Verbal,PL,SG,The respected feminist who advised the powerful congresswomen obviously {} supportive of progressive political views.,was
+18,Verbal,PL,PL,The respected feminist who advised the powerful congresswomen obviously {} supportive of progressive political views.,were
+18,Reflexive,SG,SG,The respected feminist who advised the powerful congresswoman obviously excused {} from any classified discussions.,herself
+18,Reflexive,SG,PL,The respected feminist who advised the powerful congresswoman obviously excused {} from any classified discussions.,themselves
+18,Reflexive,PL,SG,The respected feminist who advised the powerful congresswomen obviously excused {} from any classified discussions.,herself
+18,Reflexive,PL,PL,The respected feminist who advised the powerful congresswomen obviously excused {} from any classified discussions.,themselves
+19,Verbal,SG,SG,The dental hygienist who treated the elderly lady evidently {} known for being very thorough.,was
+19,Verbal,SG,PL,The dental hygienist who treated the elderly lady evidently {} known for being very thorough.,were
+19,Verbal,PL,SG,The dental hygienist who treated the elderly ladies evidently {} known for being very thorough.,was
+19,Verbal,PL,PL,The dental hygienist who treated the elderly ladies evidently {} known for being very thorough.,were
+19,Reflexive,SG,SG,The dental hygienist who treated the elderly lady evidently taught {} how to do root canals.,herself
+19,Reflexive,SG,PL,The dental hygienist who treated the elderly lady evidently taught {} how to do root canals.,themselves
+19,Reflexive,PL,SG,The dental hygienist who treated the elderly ladies evidently taught {} how to do root canals.,herself
+19,Reflexive,PL,PL,The dental hygienist who treated the elderly ladies evidently taught {} how to do root canals.,themselves
+20,Verbal,SG,SG,The glamorous supermodel who promoted the fashion designer apparently {} ready for another photo shoot.,was
+20,Verbal,SG,PL,The glamorous supermodel who promoted the fashion designer apparently {} ready for another photo shoot.,were
+20,Verbal,PL,SG,The glamorous supermodel who promoted the fashion designers apparently {} ready for another photo shoot.,was
+20,Verbal,PL,PL,The glamorous supermodel who promoted the fashion designers apparently {} ready for another photo shoot.,were
+20,Reflexive,SG,SG,The glamorous supermodel who promoted the fashion designer apparently bruised {} during the photo shoot.,herself
+20,Reflexive,SG,PL,The glamorous supermodel who promoted the fashion designer apparently bruised {} during the photo shoot.,themselves
+20,Reflexive,PL,SG,The glamorous supermodel who promoted the fashion designers apparently bruised {} during the photo shoot.,herself
+20,Reflexive,PL,PL,The glamorous supermodel who promoted the fashion designers apparently bruised {} during the photo shoot.,themselves
+21,Verbal,SG,SG,The peppy cheerleader who socialized with the sorority member clearly {} uncomfortable at the frat party.,was
+21,Verbal,SG,PL,The peppy cheerleader who socialized with the sorority member clearly {} uncomfortable at the frat party.,were
+21,Verbal,PL,SG,The peppy cheerleader who socialized with the sorority members clearly {} uncomfortable at the frat party.,was
+21,Verbal,PL,PL,The peppy cheerleader who socialized with the sorority members clearly {} uncomfortable at the frat party.,were
+21,Reflexive,SG,SG,The peppy cheerleader who socialized with the sorority member clearly injured {} during last night's practice.,herself
+21,Reflexive,SG,PL,The peppy cheerleader who socialized with the sorority member clearly injured {} during last night's practice.,themselves
+21,Reflexive,PL,SG,The peppy cheerleader who socialized with the sorority members clearly injured {} during last night's practice.,herself
+21,Reflexive,PL,PL,The peppy cheerleader who socialized with the sorority members clearly injured {} during last night's practice.,themselves
+22,Verbal,SG,SG,The cleaning lady who worked for the aging spinster seemingly {} reluctant to use bleaching agents.,was
+22,Verbal,SG,PL,The cleaning lady who worked for the aging spinster seemingly {} reluctant to use bleaching agents.,were
+22,Verbal,PL,SG,The cleaning lady who worked for the aging spinsters seemingly {} reluctant to use bleaching agents.,was
+22,Verbal,PL,PL,The cleaning lady who worked for the aging spinsters seemingly {} reluctant to use bleaching agents.,were
+22,Reflexive,SG,SG,The cleaning lady who worked for the aging spinster seemingly preoccupied {} with the dirty dishes.,herself
+22,Reflexive,SG,PL,The cleaning lady who worked for the aging spinster seemingly preoccupied {} with the dirty dishes.,themselves
+22,Reflexive,PL,SG,The cleaning lady who worked for the aging spinsters seemingly preoccupied {} with the dirty dishes.,herself
+22,Reflexive,PL,PL,The cleaning lady who worked for the aging spinsters seemingly preoccupied {} with the dirty dishes.,themselves
+23,Verbal,SG,SG,The efficient secretary who assisted the rapid typist undeniably {} systematic in sorting company documents.,was
+23,Verbal,SG,PL,The efficient secretary who assisted the rapid typist undeniably {} systematic in sorting company documents.,were
+23,Verbal,PL,SG,The efficient secretary who assisted the rapid typists undeniably {} systematic in sorting company documents.,was
+23,Verbal,PL,PL,The efficient secretary who assisted the rapid typists undeniably {} systematic in sorting company documents.,were
+23,Reflexive,SG,SG,The efficient secretary who assisted the rapid typist undeniably scratched {} with the sharp letter-opener.,herself
+23,Reflexive,SG,PL,The efficient secretary who assisted the rapid typist undeniably scratched {} with the sharp letter-opener.,themselves
+23,Reflexive,PL,SG,The efficient secretary who assisted the rapid typists undeniably scratched {} with the sharp letter-opener.,herself
+23,Reflexive,PL,PL,The efficient secretary who assisted the rapid typists undeniably scratched {} with the sharp letter-opener.,themselves
+24,Verbal,SG,SG,The effective salesman who worked for the successful entrepreneur probably {} worried about the company's image in the news.,was
+24,Verbal,SG,PL,The effective salesman who worked for the successful entrepreneur probably {} worried about the company's image in the news.,were
+24,Verbal,PL,SG,The effective salesman who worked for the successful entrepreneurs probably {} worried about the company's image in the news.,was
+24,Verbal,PL,PL,The effective salesman who worked for the successful entrepreneurs probably {} worried about the company's image in the news.,were
+24,Reflexive,SG,SG,The effective salesman who worked for the successful entrepreneur probably recommended {} for the new manager position.,himself
+24,Reflexive,SG,PL,The effective salesman who worked for the successful entrepreneur probably recommended {} for the new manager position.,themselves
+24,Reflexive,PL,SG,The effective salesman who worked for the successful entrepreneurs probably recommended {} for the new manager position.,himself
+24,Reflexive,PL,PL,The effective salesman who worked for the successful entrepreneurs probably recommended {} for the new manager position.,themselves
+25,Verbal,SG,SG,The charming butcher who served the picky chef actually {} unconcerned about selling rancid meat.,was
+25,Verbal,SG,PL,The charming butcher who served the picky chef actually {} unconcerned about selling rancid meat.,were
+25,Verbal,PL,SG,The charming butcher who served the picky chefs actually {} unconcerned about selling rancid meat.,was
+25,Verbal,PL,PL,The charming butcher who served the picky chefs actually {} unconcerned about selling rancid meat.,were
+25,Reflexive,SG,SG,The charming butcher who served the picky chef actually burned {} in the kitchen.,himself
+25,Reflexive,SG,PL,The charming butcher who served the picky chef actually burned {} in the kitchen.,themselves
+25,Reflexive,PL,SG,The charming butcher who served the picky chefs actually burned {} in the kitchen.,himself
+25,Reflexive,PL,PL,The charming butcher who served the picky chefs actually burned {} in the kitchen.,themselves
+26,Verbal,SG,SG,The hilarious clown who entertained the circus lion-tamer likely {} scared of the growling lions.,was
+26,Verbal,SG,PL,The hilarious clown who entertained the circus lion-tamer likely {} scared of the growling lions.,were
+26,Verbal,PL,SG,The hilarious clown who entertained the circus lion-tamers likely {} scared of the growling lions.,was
+26,Verbal,PL,PL,The hilarious clown who entertained the circus lion-tamers likely {} scared of the growling lions.,were
+26,Reflexive,SG,SG,The hilarious clown who entertained the circus lion-tamer likely slapped {} for a quick laugh.,himself
+26,Reflexive,SG,PL,The hilarious clown who entertained the circus lion-tamer likely slapped {} for a quick laugh.,themselves
+26,Reflexive,PL,SG,The hilarious clown who entertained the circus lion-tamers likely slapped {} for a quick laugh.,himself
+26,Reflexive,PL,PL,The hilarious clown who entertained the circus lion-tamers likely slapped {} for a quick laugh.,themselves
+27,Verbal,SG,SG,The wealthy heiress who yelled at the lazy maid undeniably {} irritated at the dirty dishes.,was
+27,Verbal,SG,PL,The wealthy heiress who yelled at the lazy maid undeniably {} irritated at the dirty dishes.,were
+27,Verbal,PL,SG,The wealthy heiress who yelled at the lazy maids undeniably {} irritated at the dirty dishes.,was
+27,Verbal,PL,PL,The wealthy heiress who yelled at the lazy maids undeniably {} irritated at the dirty dishes.,were
+27,Reflexive,SG,SG,The wealthy heiress who yelled at the lazy maid undeniably ruined {} in an embezzlement scandal.,herself
+27,Reflexive,SG,PL,The wealthy heiress who yelled at the lazy maid undeniably ruined {} in an embezzlement scandal.,themselves
+27,Reflexive,PL,SG,The wealthy heiress who yelled at the lazy maids undeniably ruined {} in an embezzlement scandal.,herself
+27,Reflexive,PL,PL,The wealthy heiress who yelled at the lazy maids undeniably ruined {} in an embezzlement scandal.,themselves
+28,Verbal,SG,SG,The cruel hunter who accompanied the accurate sharpshooter surely {} capable of finding deer in the forest.,was
+28,Verbal,SG,PL,The cruel hunter who accompanied the accurate sharpshooter surely {} capable of finding deer in the forest.,were
+28,Verbal,PL,SG,The cruel hunter who accompanied the accurate sharpshooters surely {} capable of finding deer in the forest.,was
+28,Verbal,PL,PL,The cruel hunter who accompanied the accurate sharpshooters surely {} capable of finding deer in the forest.,were
+28,Reflexive,SG,SG,The cruel hunter who accompanied the accurate sharpshooter surely shot {} in the left foot.,himself
+28,Reflexive,SG,PL,The cruel hunter who accompanied the accurate sharpshooter surely shot {} in the left foot.,themselves
+28,Reflexive,PL,SG,The cruel hunter who accompanied the accurate sharpshooters surely shot {} in the left foot.,himself
+28,Reflexive,PL,PL,The cruel hunter who accompanied the accurate sharpshooters surely shot {} in the left foot.,themselves
+29,Verbal,SG,SG,The successful businessman who scolded the teenage bellhop allegedly {} angry with the hotel management.,was
+29,Verbal,SG,PL,The successful businessman who scolded the teenage bellhop allegedly {} angry with the hotel management.,were
+29,Verbal,PL,SG,The successful businessman who scolded the teenage bellhops allegedly {} angry with the hotel management.,was
+29,Verbal,PL,PL,The successful businessman who scolded the teenage bellhops allegedly {} angry with the hotel management.,were
+29,Reflexive,SG,SG,The successful businessman who scolded the teenage bellhop allegedly locked {} in a penthouse room all alone.,himself
+29,Reflexive,SG,PL,The successful businessman who scolded the teenage bellhop allegedly locked {} in a penthouse room all alone.,themselves
+29,Reflexive,PL,SG,The successful businessman who scolded the teenage bellhops allegedly locked {} in a penthouse room all alone.,himself
+29,Reflexive,PL,PL,The successful businessman who scolded the teenage bellhops allegedly locked {} in a penthouse room all alone.,themselves
+30,Verbal,SG,SG,The police officer who aided the brilliant detective reportedly {} suspicious of the victim's brother.,was
+30,Verbal,SG,PL,The police officer who aided the brilliant detective reportedly {} suspicious of the victim's brother.,were
+30,Verbal,PL,SG,The police officer who aided the brilliant detectives reportedly {} suspicious of the victim's brother.,was
+30,Verbal,PL,PL,The police officer who aided the brilliant detectives reportedly {} suspicious of the victim's brother.,were
+30,Reflexive,SG,SG,The police officer who aided the brilliant detective reportedly disguised {} to get more information.,himself
+30,Reflexive,SG,PL,The police officer who aided the brilliant detective reportedly disguised {} to get more information.,themselves
+30,Reflexive,PL,SG,The police officer who aided the brilliant detectives reportedly disguised {} to get more information.,himself
+30,Reflexive,PL,PL,The police officer who aided the brilliant detectives reportedly disguised {} to get more information.,themselves
+31,Verbal,SG,SG,The old rancher who listened to the dishonest salesman unsurprisingly {} skeptical about buying more insurance.,was
+31,Verbal,SG,PL,The old rancher who listened to the dishonest salesman unsurprisingly {} skeptical about buying more insurance.,were
+31,Verbal,PL,SG,The old rancher who listened to the dishonest salesmen unsurprisingly {} skeptical about buying more insurance.,was
+31,Verbal,PL,PL,The old rancher who listened to the dishonest salesmen unsurprisingly {} skeptical about buying more insurance.,were
+31,Reflexive,SG,SG,The old rancher who listened to the dishonest salesman unsurprisingly isolated {} in a huge ranch on the hill.,himself
+31,Reflexive,SG,PL,The old rancher who listened to the dishonest salesman unsurprisingly isolated {} in a huge ranch on the hill.,themselves
+31,Reflexive,PL,SG,The old rancher who listened to the dishonest salesmen unsurprisingly isolated {} in a huge ranch on the hill.,himself
+31,Reflexive,PL,PL,The old rancher who listened to the dishonest salesmen unsurprisingly isolated {} in a huge ranch on the hill.,themselves
+32,Verbal,SG,SG,The meek boxer who trained with the persistent coach shockingly {} brutal in the boxing ring.,was
+32,Verbal,SG,PL,The meek boxer who trained with the persistent coach shockingly {} brutal in the boxing ring.,were
+32,Verbal,PL,SG,The meek boxer who trained with the persistent coaches shockingly {} brutal in the boxing ring.,was
+32,Verbal,PL,PL,The meek boxer who trained with the persistent coaches shockingly {} brutal in the boxing ring.,were
+32,Reflexive,SG,SG,The meek boxer who trained with the persistent coach shockingly wounded {} in a recent scuffle.,himself
+32,Reflexive,SG,PL,The meek boxer who trained with the persistent coach shockingly wounded {} in a recent scuffle.,themselves
+32,Reflexive,PL,SG,The meek boxer who trained with the persistent coaches shockingly wounded {} in a recent scuffle.,himself
+32,Reflexive,PL,PL,The meek boxer who trained with the persistent coaches shockingly wounded {} in a recent scuffle.,themselves
+33,Verbal,SG,SG,The amateur bodybuilder who worked with the personal trainer amazingly {} competitive for the gold medal.,was
+33,Verbal,SG,PL,The amateur bodybuilder who worked with the personal trainer amazingly {} competitive for the gold medal.,were
+33,Verbal,PL,SG,The amateur bodybuilder who worked with the personal trainers amazingly {} competitive for the gold medal.,was
+33,Verbal,PL,PL,The amateur bodybuilder who worked with the personal trainers amazingly {} competitive for the gold medal.,were
+33,Reflexive,SG,SG,The amateur bodybuilder who worked with the personal trainer amazingly injured {} on the lightest weights.,himself
+33,Reflexive,SG,PL,The amateur bodybuilder who worked with the personal trainer amazingly injured {} on the lightest weights.,themselves
+33,Reflexive,PL,SG,The amateur bodybuilder who worked with the personal trainers amazingly injured {} on the lightest weights.,himself
+33,Reflexive,PL,PL,The amateur bodybuilder who worked with the personal trainers amazingly injured {} on the lightest weights.,themselves
+34,Verbal,SG,SG,The basketball coach who trained the star player usually {} nervous at the important games.,was
+34,Verbal,SG,PL,The basketball coach who trained the star player usually {} nervous at the important games.,were
+34,Verbal,PL,SG,The basketball coach who trained the star players usually {} nervous at the important games.,was
+34,Verbal,PL,PL,The basketball coach who trained the star players usually {} nervous at the important games.,were
+34,Reflexive,SG,SG,The basketball coach who trained the star player usually blamed {} for the team's poor performance.,himself
+34,Reflexive,SG,PL,The basketball coach who trained the star player usually blamed {} for the team's poor performance.,themselves
+34,Reflexive,PL,SG,The basketball coach who trained the star player usually blamed {} for the team's poor performance.,himself
+34,Reflexive,PL,PL,The basketball coach who trained the star player usually blamed {} for the team's poor performance.,themselves
+35,Verbal,SG,SG,The young caddy who escorted the experienced golfer supposedly {} helpful around the country club.,was
+35,Verbal,SG,PL,The young caddy who escorted the experienced golfer supposedly {} helpful around the country club.,were
+35,Verbal,PL,SG,The young caddy who escorted the experienced golfers supposedly {} helpful around the country club.,was
+35,Verbal,PL,PL,The young caddy who escorted the experienced golfers supposedly {} helpful around the country club.,were
+35,Reflexive,SG,SG,The young caddy who escorted the experienced golfer supposedly dirtied {} by falling in the sand.,himself
+35,Reflexive,SG,PL,The young caddy who escorted the experienced golfer supposedly dirtied {} by falling in the sand.,themselves
+35,Reflexive,PL,SG,The young caddy who escorted the experienced golfers supposedly dirtied {} by falling in the sand.,himself
+35,Reflexive,PL,PL,The young caddy who escorted the experienced golfers supposedly dirtied {} by falling in the sand.,themselves
+36,Verbal,SG,SG,The construction worker who argued with the shift leader undeniably {} disgruntled about being harshly disciplined.,was
+36,Verbal,SG,PL,The construction worker who argued with the shift leader undeniably {} disgruntled about being harshly disciplined.,were
+36,Verbal,PL,SG,The construction worker who argued with the shift leaders undeniably {} disgruntled about being harshly disciplined.,was
+36,Verbal,PL,PL,The construction worker who argued with the shift leaders undeniably {} disgruntled about being harshly disciplined.,were
+36,Reflexive,SG,SG,The construction worker who argued with the shift leader undeniably hurt {} on the construction site.,himself
+36,Reflexive,SG,PL,The construction worker who argued with the shift leader undeniably hurt {} on the construction site.,themselves
+36,Reflexive,PL,SG,The construction worker who argued with the shift leaders undeniably hurt {} on the construction site.,himself
+36,Reflexive,PL,PL,The construction worker who argued with the shift leaders undeniably hurt {} on the construction site.,themselves
+37,Verbal,SG,SG,The grimy blacksmith who worked for the royal knight evidently {} unaware of basic forging techniques.,was
+37,Verbal,SG,PL,The grimy blacksmith who worked for the royal knight evidently {} unaware of basic forging techniques.,were
+37,Verbal,PL,SG,The grimy blacksmith who worked for the royal knights evidently {} unaware of basic forging techniques.,was
+37,Verbal,PL,PL,The grimy blacksmith who worked for the royal knights evidently {} unaware of basic forging techniques.,were
+37,Reflexive,SG,SG,The grimy blacksmith who worked for the royal knight evidently hurt {} with the sharp tools.,himself
+37,Reflexive,SG,PL,The grimy blacksmith who worked for the royal knight evidently hurt {} with the sharp tools.,themselves
+37,Reflexive,PL,SG,The grimy blacksmith who worked for the royal knights evidently hurt {} with the sharp tools.,himself
+37,Reflexive,PL,PL,The grimy blacksmith who worked for the royal knights evidently hurt {} with the sharp tools.,themselves
+38,Verbal,SG,SG,The paranoid foreman who supervised the coal miner presumably {} worried about dangerous working conditions.,was
+38,Verbal,SG,PL,The paranoid foreman who supervised the coal miner presumably {} worried about dangerous working conditions.,were
+38,Verbal,PL,SG,The paranoid foreman who supervised the coal miners presumably {} worried about dangerous working conditions.,was
+38,Verbal,PL,PL,The paranoid foreman who supervised the coal miners presumably {} worried about dangerous working conditions.,were
+38,Reflexive,SG,SG,The paranoid foreman who supervised the coal miner presumably saved {} after the awful cave-in.,himself
+38,Reflexive,SG,PL,The paranoid foreman who supervised the coal miner presumably saved {} after the awful cave-in.,themselves
+38,Reflexive,PL,SG,The paranoid foreman who supervised the coal miners presumably saved {} after the awful cave-in.,himself
+38,Reflexive,PL,PL,The paranoid foreman who supervised the coal miners presumably saved {} after the awful cave-in.,themselves
+39,Verbal,SG,SG,The serious general who advised the new corporal seemingly {} unhappy with the training regimen.,was
+39,Verbal,SG,PL,The serious general who advised the new corporal seemingly {} unhappy with the training regimen.,were
+39,Verbal,PL,SG,The serious general who advised the new corporals seemingly {} unhappy with the training regimen.,was
+39,Verbal,PL,PL,The serious general who advised the new corporals seemingly {} unhappy with the training regimen.,were
+39,Reflexive,SG,SG,The serious general who advised the new corporal seemingly committed {} to the training regimen.,himself
+39,Reflexive,SG,PL,The serious general who advised the new corporal seemingly committed {} to the training regimen.,themselves
+39,Reflexive,PL,SG,The serious general who advised the new corporals seemingly committed {} to the training regimen.,himself
+39,Reflexive,PL,PL,The serious general who advised the new corporals seemingly committed {} to the training regimen.,themselves
+40,Verbal,SG,SG,The new executive who oversaw the middle manager apparently {} dishonest about the company's profits.,was
+40,Verbal,SG,PL,The new executive who oversaw the middle manager apparently {} dishonest about the company's profits.,were
+40,Verbal,PL,SG,The new executive who oversaw the middle managers apparently {} dishonest about the company's profits.,was
+40,Verbal,PL,PL,The new executive who oversaw the middle managers apparently {} dishonest about the company's profits.,were
+40,Reflexive,SG,SG,The new executive who oversaw the middle manager apparently doubted {} on most major decisions.,himself
+40,Reflexive,SG,PL,The new executive who oversaw the middle manager apparently doubted {} on most major decisions.,themselves
+40,Reflexive,PL,SG,The new executive who oversaw the middle managers apparently doubted {} on most major decisions.,himself
+40,Reflexive,PL,PL,The new executive who oversaw the middle managers apparently doubted {} on most major decisions.,themselves
+41,Verbal,SG,SG,The popular sheriff who campaigned for the incumbent politician never {} concerned with preventing violent crime.,was
+41,Verbal,SG,PL,The popular sheriff who campaigned for the incumbent politician never {} concerned with preventing violent crime.,were
+41,Verbal,PL,SG,The popular sheriff who campaigned for the incumbent politicians never {} concerned with preventing violent crime.,was
+41,Verbal,PL,PL,The popular sheriff who campaigned for the incumbent politicians never {} concerned with preventing violent crime.,were
+41,Reflexive,SG,SG,The popular sheriff who campaigned for the incumbent politician never prepared {} for the new press briefing.,himself
+41,Reflexive,SG,PL,The popular sheriff who campaigned for the incumbent politician never prepared {} for the new press briefing.,themselves
+41,Reflexive,PL,SG,The popular sheriff who campaigned for the incumbent politicians never prepared {} for the new press briefing.,himself
+41,Reflexive,PL,PL,The popular sheriff who campaigned for the incumbent politicians never prepared {} for the new press briefing.,themselves
+42,Verbal,SG,SG,The somber minister who conversed with the religious scholar usually {} tempted to discuss controversial issues.,was
+42,Verbal,SG,PL,The somber minister who conversed with the religious scholar usually {} tempted to discuss controversial issues.,were
+42,Verbal,PL,SG,The somber minister who conversed with the religious scholars usually {} tempted to discuss controversial issues.,was
+42,Verbal,PL,PL,The somber minister who conversed with the religious scholars usually {} tempted to discuss controversial issues.,were
+42,Reflexive,SG,SG,The somber minister who conversed with the religious scholar usually presented {} as very open-minded.,himself
+42,Reflexive,SG,PL,The somber minister who conversed with the religious scholar usually presented {} as very open-minded.,themselves
+42,Reflexive,PL,SG,The somber minister who conversed with the religious scholars usually presented {} as very open-minded.,himself
+42,Reflexive,PL,PL,The somber minister who conversed with the religious scholars usually presented {} as very open-minded.,themselves
+43,Verbal,SG,SG,The rich CEO who employed the expensive chauffeur typically {} unwilling to take the scenic route.,was
+43,Verbal,SG,PL,The rich CEO who employed the expensive chauffeur typically {} unwilling to take the scenic route.,were
+43,Verbal,PL,SG,The rich CEO who employed the expensive chauffeurs typically {} unwilling to take the scenic route.,was
+43,Verbal,PL,PL,The rich CEO who employed the expensive chauffeurs typically {} unwilling to take the scenic route.,were
+43,Reflexive,SG,SG,The rich CEO who employed the expensive chauffeur typically amused {} by requesting the scenic route.,himself
+43,Reflexive,SG,PL,The rich CEO who employed the expensive chauffeur typically amused {} by requesting the scenic route.,themselves
+43,Reflexive,PL,SG,The rich CEO who employed the expensive chauffeurs typically amused {} by requesting the scenic route.,himself
+43,Reflexive,PL,PL,The rich CEO who employed the expensive chauffeurs typically amused {} by requesting the scenic route.,themselves
+44,Verbal,SG,SG,The handy plumber who helped the absentminded homeowner probably {} watchful for any leaky joints.,was
+44,Verbal,SG,PL,The handy plumber who helped the absentminded homeowner probably {} watchful for any leaky joints.,were
+44,Verbal,PL,SG,The handy plumber who helped the absentminded homeowners probably {} watchful for any leaky joints.,was
+44,Verbal,PL,PL,The handy plumber who helped the absentminded homeowners probably {} watchful for any leaky joints.,were
+44,Reflexive,SG,SG,The handy plumber who helped the absentminded homeowner probably drenched {} when the pipes burst.,himself
+44,Reflexive,SG,PL,The handy plumber who helped the absentminded homeowner probably drenched {} when the pipes burst.,themselves
+44,Reflexive,PL,SG,The handy plumber who helped the absentminded homeowners probably drenched {} when the pipes burst.,himself
+44,Reflexive,PL,PL,The handy plumber who helped the absentminded homeowners probably drenched {} when the pipes burst.,themselves
+45,Verbal,SG,SG,The elderly doctor who treated the tough soldier usually {} reluctant to prescribe pain medication.,was
+45,Verbal,SG,PL,The elderly doctor who treated the tough soldier usually {} reluctant to prescribe pain medication.,were
+45,Verbal,PL,SG,The elderly doctor who treated the tough soldiers usually {} reluctant to prescribe pain medication.,was
+45,Verbal,PL,PL,The elderly doctor who treated the tough soldiers usually {} reluctant to prescribe pain medication.,were
+45,Reflexive,SG,SG,The elderly doctor who treated the tough soldier usually cleaned {} after every single appointment.,himself
+45,Reflexive,SG,PL,The elderly doctor who treated the tough soldier usually cleaned {} after every single appointment.,themselves
+45,Reflexive,PL,SG,The elderly doctor who treated the tough soldiers usually cleaned {} after every single appointment.,himself
+45,Reflexive,PL,PL,The elderly doctor who treated the tough soldiers usually cleaned {} after every single appointment.,themselves
+46,Verbal,SG,SG,The football referee who argued with the large quarterback surprisingly {} unwilling to change the decision.,was
+46,Verbal,SG,PL,The football referee who argued with the large quarterback surprisingly {} unwilling to change the decision.,were
+46,Verbal,PL,SG,The football referee who argued with the large quarterbacks surprisingly {} unwilling to change the decision.,was
+46,Verbal,PL,PL,The football referee who argued with the large quarterbacks surprisingly {} unwilling to change the decision.,were
+46,Reflexive,SG,SG,The football referee who argued with the large quarterback surprisingly excused {} from the important game.,himself
+46,Reflexive,SG,PL,The football referee who argued with the large quarterback surprisingly excused {} from the important game.,themselves
+46,Reflexive,PL,SG,The football referee who argued with the large quarterbacks surprisingly excused {} from the important game.,himself
+46,Reflexive,PL,PL,The football referee who argued with the large quarterbacks surprisingly excused {} from the important game.,themselves
+47,Verbal,SG,SG,The rough woodsman who helped the tired hiker evidently {} annoyed with the environmental activists.,was
+47,Verbal,SG,PL,The rough woodsman who helped the tired hiker evidently {} annoyed with the environmental activists.,were
+47,Verbal,PL,SG,The rough woodsman who helped the tired hikers evidently {} annoyed with the environmental activists.,was
+47,Verbal,PL,PL,The rough woodsman who helped the tired hikers evidently {} annoyed with the environmental activists.,were
+47,Reflexive,SG,SG,The rough woodsman who helped the tired hiker evidently secluded {} from the outside world.,himself
+47,Reflexive,SG,PL,The rough woodsman who helped the tired hiker evidently secluded {} from the outside world.,themselves
+47,Reflexive,PL,SG,The rough woodsman who helped the tired hikers evidently secluded {} from the outside world.,himself
+47,Reflexive,PL,PL,The rough woodsman who helped the tired hikers evidently secluded {} from the outside world.,themselves
+48,Verbal,SG,SG,The slick politician who avoided the persistent journalist reportedly {} hypocritical in condemning the lobbyists.,was
+48,Verbal,SG,PL,The slick politician who avoided the persistent journalist reportedly {} hypocritical in condemning the lobbyists.,were
+48,Verbal,PL,SG,The slick politician who avoided the persistent journalists reportedly {} hypocritical in condemning the lobbyists.,was
+48,Verbal,PL,PL,The slick politician who avoided the persistent journalists reportedly {} hypocritical in condemning the lobbyists.,were
+48,Reflexive,SG,SG,The slick politician who avoided the persistent journalist reportedly described {} as typically conservative.,himself
+48,Reflexive,SG,PL,The slick politician who avoided the persistent journalist reportedly described {} as typically conservative.,themselves
+48,Reflexive,PL,SG,The slick politician who avoided the persistent journalists reportedly described {} as typically conservative.,himself
+48,Reflexive,PL,PL,The slick politician who avoided the persistent journalists reportedly described {} as typically conservative.,themselves
