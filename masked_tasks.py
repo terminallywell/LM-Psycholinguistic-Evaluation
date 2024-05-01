@@ -22,22 +22,20 @@ task_list = [
 ]
 
 
-TASK = task_list[0]
-data = pd.read_csv(f'tasks/{TASK}/{TASK}.csv')
-
-
 def surp_mask(context, word):
     return prob_mask(fill_masker, context, word, True)
 
 ###############################
 if __name__ == '__main__':
-    for modelname in masked_models:
-        # initializing tokenizer and pipeline
-        tokenizer = AutoTokenizer.from_pretrained(modelname, token=TOKEN)
-        MASK = tokenizer.mask_token
-        fill_masker = pipeline(model=modelname, token=TOKEN)
+    for task in task_list:
+        data = pd.read_csv(f'tasks/{task}/{task}.csv')
+        for modelname in masked_models:
+            # initializing tokenizer and pipeline
+            tokenizer = AutoTokenizer.from_pretrained(modelname, token=TOKEN)
+            MASK = tokenizer.mask_token
+            fill_masker = pipeline(model=modelname, token=TOKEN)
 
-        # execute task & record results
-        data['Surprisal'] = data.apply(lambda row: surp_mask(row['Context'].format(MASK), row['Target']), axis=1)
-        data.to_csv(f'tasks/{TASK}/results/{TASK}_{modelname.split('/')[1]}.csv', index=False)
-        print('Finished:', modelname)
+            # execute task & record results
+            data['Surprisal'] = data.apply(lambda row: surp_mask(row['Context'].format(MASK), row['Target']), axis=1)
+            data.to_csv(f'tasks/{task}/results/{task}_{modelname.split('/')[1]}.csv', index=False)
+            print('Finished:', modelname)

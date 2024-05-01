@@ -22,22 +22,20 @@ task_list = [
     'sbj-obj'
 ]
 
-TASK = task_list[0]
-data = pd.read_csv(f'tasks/{TASK}/{TASK}.csv')
-
-
 def surp_next(context, word):
     return prob_next(tokenizer, model, context, word, True)
 
 ###############################
 if __name__ == '__main__':
-    for modelname in causal_models:
-        # initializing tokenizer and model
-        tokenizer = AutoTokenizer.from_pretrained(modelname, token=TOKEN)
-        model = AutoModelForCausalLM.from_pretrained(modelname, token=TOKEN)
-        model.eval()
+    for task in task_list:
+        data = pd.read_csv(f'tasks/{task}/{task}.csv')
+        for modelname in causal_models:
+            # initializing tokenizer and model
+            tokenizer = AutoTokenizer.from_pretrained(modelname, token=TOKEN)
+            model = AutoModelForCausalLM.from_pretrained(modelname, token=TOKEN)
+            model.eval()
 
-        # execute task & record results
-        data['Surprisal'] = data.apply(lambda row: surp_next(row['Context'], row['Target']), axis=1)
-        data.to_csv(f'tasks/{TASK}/results/{TASK}_{modelname.split('/')[1]}.csv', index=False)
-        print('Finished:', modelname)
+            # execute task & record results
+            data['Surprisal'] = data.apply(lambda row: surp_next(row['Context'], row['Target']), axis=1)
+            data.to_csv(f'tasks/{task}/results/{task}_{modelname.split('/')[1]}.csv', index=False)
+            print('Finished:', modelname)
