@@ -2,8 +2,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy import stats
-from masked_tasks import masked_models
+from masked_tasks import masked_models, task_list
 
+TASK = task_list[1]
 
 models = [model.split('/')[1] for model in masked_models]
 

@@ -18,12 +18,12 @@ masked_models = [
 
 
 task_list = [
-    'Attraction',
+    'attraction',
 ]
 
 
 TASK = task_list[0]
-data = pd.read_csv(f'tasks/{TASK}.csv')
+data = pd.read_csv(f'tasks/{TASK}/{TASK}.csv')
 
 
 def surp_mask(context, word):
@@ -39,5 +39,5 @@ if __name__ == '__main__':
 
         # execute task & record results
         data['Surprisal'] = data.apply(lambda row: surp_mask(row['Context'].format(MASK), row['Target']), axis=1)
-        data.to_csv(f'results/{TASK}_{modelname.split('/')[1]}.csv', index=False)
+        data.to_csv(f'tasks/{TASK}/results/{TASK}_{modelname.split('/')[1]}.csv', index=False)
         print('Finished:', modelname)
