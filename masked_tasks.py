@@ -38,4 +38,4 @@ if __name__ == '__main__':
             # execute task & record results
             data['Surprisal'] = data.apply(lambda row: surp_mask(row['Context'].format(MASK), row['Target']), axis=1)
             data.to_csv(f'tasks/{task}/results/{task}_{modelname.split('/')[1]}.csv', index=False)
-            print('Finished:', modelname)
+            print(f'Finished {task} for {modelname}')
