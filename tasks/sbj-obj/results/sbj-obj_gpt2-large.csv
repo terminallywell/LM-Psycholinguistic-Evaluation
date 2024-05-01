@@ -1,0 +1,113 @@
+Item,Condition,Context,Target,Surprisal
+1,SBJ-Match,"While he was taking the orders,",Michael,11.037616711240759
+1,SBJ-Mismatch,"While she was taking the orders,",Michael,12.891329749180917
+1,OBJ-Match,"While he was taking the orders, a couple of customers annoyed",Michael,12.673217786901397
+1,OBJ-Mismatch,"While she was taking the orders, a couple of customers annoyed",Michael,13.76317732946969
+2,SBJ-Match,"After he had read the report,",Michael,10.525745465487446
+2,SBJ-Mismatch,"After she had read the report,",Michael,11.156861692180863
+2,OBJ-Match,"After he had read the report, a couple of employees accompanied",Michael,11.539518106104326
+2,OBJ-Mismatch,"After she had read the report, a couple of employees accompanied",Michael,12.118212196889516
+3,SBJ-Match,"As soon as he arrived at the station,",Michael,10.846967579314816
+3,SBJ-Mismatch,"As soon as she arrived at the station,",Michael,11.772318842927012
+3,OBJ-Match,"As soon as he arrived at the station, multiple investigators interrogated",Michael,12.236148691121672
+3,OBJ-Mismatch,"As soon as she arrived at the station, multiple investigators interrogated",Michael,13.363058150421198
+4,SBJ-Match,"While he was moving into the building,",Michael,10.357718324115307
+4,SBJ-Mismatch,"While she was moving into the building,",Michael,11.329801385937131
+4,OBJ-Match,"While he was moving into the building, a group of tenants informed",Michael,12.117397620735895
+4,OBJ-Mismatch,"While she was moving into the building, a group of tenants informed",Michael,12.63129932409044
+5,SBJ-Match,"When he got caught stealing,",Michael,10.211402829070629
+5,SBJ-Mismatch,"When she got caught stealing,",Michael,11.083945341967176
+5,OBJ-Match,"When he got caught stealing, all of the fifth-graders promised",Michael,13.700664097705813
+5,OBJ-Mismatch,"When she got caught stealing, all of the fifth-graders promised",Michael,14.42992206962902
+6,SBJ-Match,"While he prepared the presentation,",Michael,10.096580655629468
+6,SBJ-Mismatch,"While she prepared the presentation,",Michael,11.007785383598332
+6,OBJ-Match,"While he prepared the presentation, a number of colleagues lectured",Michael,14.608234337545232
+6,OBJ-Mismatch,"While she prepared the presentation, a number of colleagues lectured",Michael,15.141637135322117
+7,SBJ-Match,"After he turned up the volume,",Michael,10.60231192059538
+7,SBJ-Mismatch,"After she turned up the volume,",Michael,11.088409330334585
+7,OBJ-Match,"After he turned up the volume, some of the dancers signaled to",Michael,10.949261537680279
+7,OBJ-Mismatch,"After she turned up the volume, some of the dancers signaled to",Michael,11.108122219908038
+8,SBJ-Match,"As he walked out of the exhibition,",Jonathan,12.350998908796827
+8,SBJ-Mismatch,"As she walked out of the exhibition,",Jonathan,13.439569083885136
+8,OBJ-Match,"As he walked out of the exhibition, a group of tourists asked",Jonathan,15.212797867933284
+8,OBJ-Mismatch,"As she walked out of the exhibition, a group of tourists asked",Jonathan,15.94977336151797
+9,SBJ-Match,"While he struggled through the script,",Jonathan,12.210454614395115
+9,SBJ-Mismatch,"While she struggled through the script,",Jonathan,13.38600061211679
+9,OBJ-Match,"While he struggled through the script, members of the cast complained to",Jonathan,12.829909446091577
+9,OBJ-Mismatch,"While she struggled through the script, members of the cast complained to",Jonathan,13.586389630460907
+10,SBJ-Match,"When he was off duty,",Jonathan,11.863436714662624
+10,SBJ-Mismatch,"When she was off duty,",Jonathan,13.621610807129528
+10,OBJ-Match,"When he was off duty, some of the investigators contacted",Jonathan,13.782092430101201
+10,OBJ-Mismatch,"When she was off duty, some of the investigators contacted",Jonathan,14.582113113131303
+11,SBJ-Match,"After he got up to dance,",Jonathan,12.667291274300556
+11,SBJ-Mismatch,"After she got up to dance,",Jonathan,13.198247145570408
+11,OBJ-Match,"After he got up to dance, several guests teased",Jonathan,13.194554168631948
+11,OBJ-Mismatch,"After she got up to dance, several guests teased",Jonathan,13.976904222578048
+12,SBJ-Match,"After he posted the video,",Jonathan,12.023677469361958
+12,SBJ-Mismatch,"After she posted the video,",Jonathan,12.880320466902797
+12,OBJ-Match,"After he posted the video, a few mean commentors humiliated",Jonathan,14.204239540020122
+12,OBJ-Mismatch,"After she posted the video, a few mean commentors humiliated",Jonathan,16.191358337224848
+13,SBJ-Match,"While he weighed the jewellery,",Jonathan,12.744294242083441
+13,SBJ-Mismatch,"While she weighed the jewellery,",Jonathan,13.934678703349837
+13,OBJ-Match,"While he weighed the jewellery, a few customers asked",Jonathan,14.999841268745707
+13,OBJ-Mismatch,"While she weighed the jewellery, a few customers asked",Jonathan,16.47187596973401
+14,SBJ-Match,"When he arrived at football practice,",Jonathan,12.746181506423572
+14,SBJ-Mismatch,"When she arrived at football practice,",Jonathan,13.6390329247875
+14,OBJ-Match,"When he arrived at football practice, some of the players waved to",Jonathan,14.573615326379551
+14,OBJ-Mismatch,"When she arrived at football practice, some of the players waved to",Jonathan,16.869109143787924
+15,SBJ-Match,"After she put out the campfire,",Jessica,11.016473842368788
+15,SBJ-Mismatch,"After he put out the campfire,",Jessica,12.760741058238544
+15,OBJ-Match,"After she put out the campfire, some of the schoolboys dared",Jessica,14.87288193217594
+15,OBJ-Mismatch,"After he put out the campfire, some of the schoolboys dared",Jessica,16.982105881269565
+16,SBJ-Match,"After she had resigned,",Jessica,12.804587389194516
+16,SBJ-Mismatch,"After he had resigned,",Jessica,14.70464583187307
+16,OBJ-Match,"After she had resigned, multiple lobbyists discouraged",Jessica,15.266287131750023
+16,OBJ-Mismatch,"After he had resigned, multiple lobbyists discouraged",Jessica,16.283045977054005
+17,SBJ-Match,"As soon as she got back to school,",Jessica,9.749144585579806
+17,SBJ-Mismatch,"As soon as he got back to school,",Jessica,12.133344285760423
+17,OBJ-Match,"As soon as she got back to school, some students accused",Jessica,13.906680609325539
+17,OBJ-Mismatch,"As soon as he got back to school, some students accused",Jessica,16.746592208540292
+18,SBJ-Match,"When she came back from lunch,",Jessica,10.09211591613292
+18,SBJ-Mismatch,"When he came back from lunch,",Jessica,11.829656950198844
+18,OBJ-Match,"When she came back from lunch, some of the interns avoided",Jessica,14.248849484502815
+18,OBJ-Mismatch,"When he came back from lunch, some of the interns avoided",Jessica,15.86644227119898
+19,SBJ-Match,"As she was leaving the concert hall,",Jessica,10.842492230367368
+19,SBJ-Mismatch,"As he was leaving the concert hall,",Jessica,14.125741935868172
+19,OBJ-Match,"As she was leaving the concert hall, countless journalists questioned",Jessica,13.77940070262194
+19,OBJ-Mismatch,"As he was leaving the concert hall, countless journalists questioned",Jessica,16.35883761819669
+20,SBJ-Match,"While she waited for the bus,",Jessica,9.882488947701011
+20,SBJ-Mismatch,"While he waited for the bus,",Jessica,12.578586680688035
+20,OBJ-Match,"While she waited for the bus, various commuters warned",Jessica,12.506623376479224
+20,OBJ-Mismatch,"While he waited for the bus, various commuters warned",Jessica,14.709777487236558
+21,SBJ-Match,"When she entered the church,",Jessica,11.911926082075695
+21,SBJ-Mismatch,"When he entered the church,",Jessica,13.854495214058556
+21,OBJ-Match,"When she entered the church, a handful of churchgoers criticized",Jessica,15.313023476656069
+21,OBJ-Mismatch,"When he entered the church, a handful of churchgoers criticized",Jessica,17.559005913559194
+22,SBJ-Match,"After she heard the verdict,",Rachel,10.325595423632299
+22,SBJ-Mismatch,"After he heard the verdict,",Rachel,12.284930144610364
+22,OBJ-Match,"After she heard the verdict, a number of supporters consoled",Rachel,12.772481295038002
+22,OBJ-Mismatch,"After he heard the verdict, a number of supporters consoled",Rachel,14.07743292714559
+23,SBJ-Match,"After she had finished cooking,",Rachel,11.45735480059133
+23,SBJ-Mismatch,"After he had finished cooking,",Rachel,13.114876470962031
+23,OBJ-Match,"After she had finished cooking, a few friends helped",Rachel,13.908775121926157
+23,OBJ-Mismatch,"After he had finished cooking, a few friends helped",Rachel,16.963547657031192
+24,SBJ-Match,"After she had spoken,",Rachel,11.30350868652866
+24,SBJ-Mismatch,"After he had spoken,",Rachel,12.80239453668051
+24,OBJ-Match,"After she had spoken, seven guards escorted",Rachel,12.314129995454616
+24,OBJ-Mismatch,"After he had spoken, seven guards escorted",Rachel,14.736276767472253
+25,SBJ-Match,"While she waited backstage,",Rachel,11.667308344630472
+25,SBJ-Mismatch,"While he waited backstage,",Rachel,13.44379193684333
+25,OBJ-Match,"While she waited backstage, several models congratulated",Rachel,11.668160069091137
+25,OBJ-Mismatch,"While he waited backstage, several models congratulated",Rachel,13.791522412694656
+26,SBJ-Match,"While she was mowing the lawn,",Rachel,10.649676661462765
+26,SBJ-Mismatch,"While he was mowing the lawn,",Rachel,12.62687411844246
+26,OBJ-Match,"While she was mowing the lawn, a number of neighbors waved at",Rachel,12.21594731421219
+26,OBJ-Mismatch,"While he was mowing the lawn, a number of neighbors waved at",Rachel,15.124183448953897
+27,SBJ-Match,"After she was elected,",Rachel,12.367729831666548
+27,SBJ-Mismatch,"After he was elected,",Rachel,14.901269429859397
+27,OBJ-Match,"After she was elected, many other politicians convinced",Rachel,14.681575521368577
+27,OBJ-Mismatch,"After he was elected, many other politicians convinced",Rachel,16.66746949849862
+28,SBJ-Match,"When she got to the construction site,",Rachel,12.24035274432
+28,SBJ-Mismatch,"When he got to the construction site,",Rachel,14.608042835765378
+28,OBJ-Match,"When she got to the construction site, a lot of workers approached",Rachel,13.917728953854807
+28,OBJ-Mismatch,"When he got to the construction site, a lot of workers approached",Rachel,16.471882052128105
