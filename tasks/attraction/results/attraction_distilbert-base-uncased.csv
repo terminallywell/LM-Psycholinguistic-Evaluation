@@ -1,0 +1,385 @@
+Item,Type,DistNum,TargetNum,Context,Target,Surprisal
+1,Verbal,SG,SG,The tall nurse who cared for the elderly widow definitely {} reluctant to work long shifts.,was,2.607883860101355
+1,Verbal,SG,PL,The tall nurse who cared for the elderly widow definitely {} reluctant to work long shifts.,were,8.359135169776348
+1,Verbal,PL,SG,The tall nurse who cared for the elderly widows definitely {} reluctant to work long shifts.,was,2.2510312453873826
+1,Verbal,PL,PL,The tall nurse who cared for the elderly widows definitely {} reluctant to work long shifts.,were,4.82096808410908
+1,Reflexive,SG,SG,The tall nurse who cared for the elderly widow definitely pricked {} with a used syringe.,herself,7.798629700144642
+1,Reflexive,SG,PL,The tall nurse who cared for the elderly widow definitely pricked {} with a used syringe.,themselves,13.045893256519667
+1,Reflexive,PL,SG,The tall nurse who cared for the elderly widows definitely pricked {} with a used syringe.,herself,8.220712069237235
+1,Reflexive,PL,PL,The tall nurse who cared for the elderly widows definitely pricked {} with a used syringe.,themselves,11.352333857474335
+2,Verbal,SG,SG,The legendary diva who sang with the graceful harpist clearly {} flawless on the high notes.,was,4.0758679097777275
+2,Verbal,SG,PL,The legendary diva who sang with the graceful harpist clearly {} flawless on the high notes.,were,7.956168675941349
+2,Verbal,PL,SG,The legendary diva who sang with the graceful harpists clearly {} flawless on the high notes.,was,4.108847001953817
+2,Verbal,PL,PL,The legendary diva who sang with the graceful harpists clearly {} flawless on the high notes.,were,6.107167709773382
+2,Reflexive,SG,SG,The legendary diva who sang with the graceful harpist clearly presented {} with lots of fanfare.,herself,5.481911059610658
+2,Reflexive,SG,PL,The legendary diva who sang with the graceful harpist clearly presented {} with lots of fanfare.,themselves,7.762396143036226
+2,Reflexive,PL,SG,The legendary diva who sang with the graceful harpists clearly presented {} with lots of fanfare.,herself,5.403158737610387
+2,Reflexive,PL,PL,The legendary diva who sang with the graceful harpists clearly presented {} with lots of fanfare.,themselves,6.830933791506886
+3,Verbal,SG,SG,The nice beautician who advised the beauty queen probably {} happy about having more business.,was,1.8023406990655515
+3,Verbal,SG,PL,The nice beautician who advised the beauty queen probably {} happy about having more business.,were,6.437326798989158
+3,Verbal,PL,SG,The nice beautician who advised the beauty queens probably {} happy about having more business.,was,2.599949509891709
+3,Verbal,PL,PL,The nice beautician who advised the beauty queens probably {} happy about having more business.,were,3.7844148642724806
+3,Reflexive,SG,SG,The nice beautician who advised the beauty queen probably dabbed {} with imported French perfume.,herself,6.454954469194783
+3,Reflexive,SG,PL,The nice beautician who advised the beauty queen probably dabbed {} with imported French perfume.,themselves,10.804470090559091
+3,Reflexive,PL,SG,The nice beautician who advised the beauty queens probably dabbed {} with imported French perfume.,herself,7.472049984037499
+3,Reflexive,PL,PL,The nice beautician who advised the beauty queens probably dabbed {} with imported French perfume.,themselves,8.047310556098102
+4,Verbal,SG,SG,The talented hairdresser who worked with the friendly manicurist obviously {} popular with the regular customers.,was,2.4398988101619947
+4,Verbal,SG,PL,The talented hairdresser who worked with the friendly manicurist obviously {} popular with the regular customers.,were,6.05867383315343
+4,Verbal,PL,SG,The talented hairdresser who worked with the friendly manicurists obviously {} popular with the regular customers.,was,2.556464530864623
+4,Verbal,PL,PL,The talented hairdresser who worked with the friendly manicurists obviously {} popular with the regular customers.,were,3.6795911051408905
+4,Reflexive,SG,SG,The talented hairdresser who worked with the friendly manicurist obviously cut {} with some rusty scissors.,herself,4.373454987148026
+4,Reflexive,SG,PL,The talented hairdresser who worked with the friendly manicurist obviously cut {} with some rusty scissors.,themselves,7.3538009159479225
+4,Reflexive,PL,SG,The talented hairdresser who worked with the friendly manicurists obviously cut {} with some rusty scissors.,herself,5.047115970198765
+4,Reflexive,PL,PL,The talented hairdresser who worked with the friendly manicurists obviously cut {} with some rusty scissors.,themselves,5.87984978486298
+5,Verbal,SG,SG,The artsy florist who helped the elegant designer unfortunately {} distraught over an upcoming funeral.,was,5.689180615615365
+5,Verbal,SG,PL,The artsy florist who helped the elegant designer unfortunately {} distraught over an upcoming funeral.,were,8.91205633492513
+5,Verbal,PL,SG,The artsy florist who helped the elegant designers unfortunately {} distraught over an upcoming funeral.,was,4.7881537289971945
+5,Verbal,PL,PL,The artsy florist who helped the elegant designers unfortunately {} distraught over an upcoming funeral.,were,5.494842770077126
+5,Reflexive,SG,SG,The artsy florist who helped the elegant designer unfortunately nicked {} on a rose thorn.,herself,5.092467203611748
+5,Reflexive,SG,PL,The artsy florist who helped the elegant designer unfortunately nicked {} on a rose thorn.,themselves,10.236155173336682
+5,Reflexive,PL,SG,The artsy florist who helped the elegant designers unfortunately nicked {} on a rose thorn.,herself,5.746235019463503
+5,Reflexive,PL,PL,The artsy florist who helped the elegant designers unfortunately nicked {} on a rose thorn.,themselves,8.474692354995588
+6,Verbal,SG,SG,The nimble gymnast who studied with the female coach certainly {} unable to make a graceful landing.,was,0.48273382369583306
+6,Verbal,SG,PL,The nimble gymnast who studied with the female coach certainly {} unable to make a graceful landing.,were,4.277679615703968
+6,Verbal,PL,SG,The nimble gymnast who studied with the female coaches certainly {} unable to make a graceful landing.,was,1.0266597148909973
+6,Verbal,PL,PL,The nimble gymnast who studied with the female coaches certainly {} unable to make a graceful landing.,were,1.8723300793830722
+6,Reflexive,SG,SG,The nimble gymnast who studied with the female coach certainly bruised {} on the uneven bars.,herself,6.224801974538216
+6,Reflexive,SG,PL,The nimble gymnast who studied with the female coach certainly bruised {} on the uneven bars.,themselves,7.90114528618831
+6,Reflexive,PL,SG,The nimble gymnast who studied with the female coaches certainly bruised {} on the uneven bars.,herself,6.782365280983116
+6,Reflexive,PL,PL,The nimble gymnast who studied with the female coaches certainly bruised {} on the uneven bars.,themselves,6.715112515600414
+7,Verbal,SG,SG,The midwife who attended to the expectant mothers probably {} committed promoting natural childbirth.,was,5.987089587366003
+7,Verbal,SG,PL,The midwife who attended to the expectant mother probably {} committed to promoting natural childbirth.,were,3.625767214552382
+7,Verbal,PL,SG,The midwife who attended to the expectant mothers probably {} committed to promoting natural childbirth.,was,2.3545457247982973
+7,Verbal,PL,PL,The midwife who attended to the expectant mothers probably {} committed to promoting natural childbirth.,were,1.0876651339019747
+7,Reflexive,SG,SG,The midwife who attended to the expectant mother probably supported {} with private childbirth consultations.,herself,5.931609577408692
+7,Reflexive,SG,PL,The midwife who attended to the expectant mother probably supported {} with private childbirth consultations.,themselves,8.047095891138635
+7,Reflexive,PL,SG,The midwife who attended to the expectant mothers probably supported {} with private childbirth consultations.,herself,6.683105596707576
+7,Reflexive,PL,PL,The midwife who attended to the expectant mothers probably supported {} with private childbirth consultations.,themselves,6.284189208618045
+8,Verbal,SG,SG,The new mother who interviewed the teenage babysitters definitely {} careful careful to do a full background check.,was,1.5991507841337385
+8,Verbal,SG,PL,The new mother who interviewed the teenage babysitter definitely {} careful to do a full background check.,were,6.02148381630377
+8,Verbal,PL,SG,The new mother who interviewed the teenage babysitters definitely {} careful to do a full background check.,was,0.3870206227482591
+8,Verbal,PL,PL,The new mother who interviewed the teenage babysitters definitely {} careful to do a full background check.,were,4.057668417496361
+8,Reflexive,SG,SG,The new mother who interviewed the teenage babysitter definitely stressed {} out in the process.,herself,5.417786679951327
+8,Reflexive,SG,PL,The new mother who interviewed the teenage babysitter definitely stressed {} out in the process.,themselves,9.565204706359225
+8,Reflexive,PL,SG,The new mother who interviewed the teenage babysitters definitely stressed {} out in the process.,herself,5.851085458584362
+8,Reflexive,PL,PL,The new mother who interviewed the teenage babysitters definitely stressed {} out in the process.,themselves,8.427768050644449
+9,Verbal,SG,SG,The quick typist who assisted the female lawyer clearly {} doubtful of the quality of the office computers.,was,2.8649270426457356
+9,Verbal,SG,PL,The quick typist who assisted the female lawyer clearly {} doubtful of the quality of the office computers.,were,7.777201412822064
+9,Verbal,PL,SG,The quick typist who assisted the female lawyers clearly {} doubtful of the quality of the office computers.,was,3.0770633290964815
+9,Verbal,PL,PL,The quick typist who assisted the female lawyers clearly {} doubtful of the quality of the office computers.,were,5.659034791660764
+9,Reflexive,SG,SG,The quick typist who assisted the female lawyer clearly trusted {} to organize the office.,herself,8.17820714224933
+9,Reflexive,SG,PL,The quick typist who assisted the female lawyer clearly trusted {} to organize the office.,themselves,11.29414480294335
+9,Reflexive,PL,SG,The quick typist who assisted the female lawyers clearly trusted {} to organize the office.,herself,7.936932488014932
+9,Reflexive,PL,PL,The quick typist who assisted the female lawyers clearly trusted {} to organize the office.,themselves,9.067566343575713
+10,Verbal,SG,SG,The stern librarian who glared at the little girls probably {} irritated irritated about the unruly visitors.,was,5.441535843746683
+10,Verbal,SG,PL,The stern librarian who glared at the little girl probably {} irritated about the unruly visitors.,were,7.559513004202995
+10,Verbal,PL,SG,The stern librarian who glared at the little girls probably {} irritated about the unruly visitors.,was,4.231320551140721
+10,Verbal,PL,PL,The stern librarian who glared at the little girls probably {} irritated about the unruly visitors.,were,6.783225283693551
+10,Reflexive,SG,SG,The stern librarian who glared at the loud child probably amused {} by reorganizing the books.,herself,4.72694772622424
+10,Reflexive,SG,PL,The stern librarian who glared at the loud child probably amused {} by reorganizing the books.,themselves,5.287908303093452
+10,Reflexive,PL,SG,The stern librarian who glared at the loud children probably amused {} by reorganizing the books.,herself,5.397357083626906
+10,Reflexive,PL,PL,The stern librarian who glared at the loud children probably amused {} by reorganizing the books.,themselves,1.9830412784989584
+11,Verbal,SG,SG,The aging nun who taught the young choirgirls definitely {} anxious retire very soon.,was,6.133596514540484
+11,Verbal,SG,PL,The aging nun who taught the young choirgirl definitely {} anxious to retire very soon.,were,8.72176608731399
+11,Verbal,PL,SG,The aging nun who taught the young choirgirls definitely {} anxious to retire very soon.,was,2.171576905012288
+11,Verbal,PL,PL,The aging nun who taught the young choirgirls definitely {} anxious to retire very soon.,were,6.712279448958813
+11,Reflexive,SG,SG,The aging nun who taught the young choirgirl definitely exhausted {} by teaching too much.,herself,0.8988052583529104
+11,Reflexive,SG,PL,The aging nun who taught the young choirgirl definitely exhausted {} by teaching too much.,themselves,6.0098345633782015
+11,Reflexive,PL,SG,The aging nun who taught the young choirgirls definitely exhausted {} by teaching too much.,herself,1.404549914396684
+11,Reflexive,PL,PL,The aging nun who taught the young choirgirls definitely exhausted {} by teaching too much.,themselves,4.280606791976896
+12,Verbal,SG,SG,The strict nanny who babysat the well-behaved schoolgirl evidently {} reluctant to spank bad children.,was,1.7277586494605133
+12,Verbal,SG,PL,The strict nanny who babysat the well-behaved schoolgirl evidently {} reluctant to spank bad children.,were,7.5274758616372335
+12,Verbal,PL,SG,The strict nanny who babysat the well-behaved schoolgirls evidently {} reluctant to spank bad children.,was,1.629465567140783
+12,Verbal,PL,PL,The strict nanny who babysat the well-behaved schoolgirls evidently {} reluctant to spank bad children.,were,4.174936703876288
+12,Reflexive,SG,SG,The strict nanny who babysat the well-behaved schoolgirl evidently burned {} preparing a hot soup.,herself,6.885685430312929
+12,Reflexive,SG,PL,The strict nanny who babysat the well-behaved schoolgirl evidently burned {} preparing a hot soup.,themselves,12.743435246985504
+12,Reflexive,PL,SG,The strict nanny who babysat the well-behaved schoolgirls evidently burned {} preparing a hot soup.,herself,8.012726184780227
+12,Reflexive,PL,PL,The strict nanny who babysat the well-behaved schoolgirls evidently burned {} preparing a hot soup.,themselves,11.376037488161403
+13,Verbal,SG,SG,The dramatic actress who promoted the opera singer apparently {} excited about the upcoming season.,was,1.5028546037887436
+13,Verbal,SG,PL,The dramatic actress who promoted the opera singer apparently {} excited about the upcoming season.,were,6.158671284931073
+13,Verbal,PL,SG,The dramatic actress who promoted the opera singers apparently {} excited about the upcoming season.,was,1.6952101754877786
+13,Verbal,PL,PL,The dramatic actress who promoted the opera singers apparently {} excited about the upcoming season.,were,3.8161209921789796
+13,Reflexive,SG,SG,The dramatic actress who promoted the opera singer apparently volunteered {} for a television commerical.,herself,4.979047689818688
+13,Reflexive,SG,PL,The dramatic actress who promoted the opera singer apparently volunteered {} for a television commerical.,themselves,10.266606122021681
+13,Reflexive,PL,SG,The dramatic actress who promoted the opera singers apparently volunteered {} for a television commerical.,herself,5.755888084034342
+13,Reflexive,PL,PL,The dramatic actress who promoted the opera singers apparently volunteered {} for a television commerical.,themselves,7.032211300888184
+14,Verbal,SG,SG,The nimble ballerina who danced with the jazz dancers clearly {} skilled skilled in many dance techniques.,was,2.5614460681121334
+14,Verbal,SG,PL,The nimble ballerina who danced with the jazz dancer clearly {} skilled in many dance techniques.,were,5.553119390479482
+14,Verbal,PL,SG,The nimble ballerina who danced with the jazz dancers clearly {} skilled in many dance techniques.,was,1.5907951570454417
+14,Verbal,PL,PL,The nimble ballerina who danced with the jazz dancers clearly {} skilled in many dance techniques.,were,2.2018317020779974
+14,Reflexive,SG,SG,The nimble ballerina who danced with the jazz dancer clearly disoriented {} with the complicated dance.,herself,3.791259878609551
+14,Reflexive,SG,PL,The nimble ballerina who danced with the jazz dancer clearly disoriented {} with the complicated dance.,themselves,6.806316735462227
+14,Reflexive,PL,SG,The nimble ballerina who danced with the jazz dancers clearly disoriented {} with the complicated dance.,herself,4.333617235782736
+14,Reflexive,PL,PL,The nimble ballerina who danced with the jazz dancers clearly disoriented {} with the complicated dance.,themselves,4.779965962391063
+15,Verbal,SG,SG,The evil witch who stalked the royal princesses supposedly {} prepared curse the royal family.,was,7.6889974710937965
+15,Verbal,SG,PL,The evil witch who stalked the royal princess supposedly {} prepared to curse the royal family.,were,6.522137133302833
+15,Verbal,PL,SG,The evil witch who stalked the royal princesses supposedly {} prepared to curse the royal family.,was,1.5419130991861365
+15,Verbal,PL,PL,The evil witch who stalked the royal princesses supposedly {} prepared to curse the royal family.,were,3.9244838009198526
+15,Reflexive,SG,SG,The evil witch who stalked the royal princess supposedly poisoned {} with a cursed apple.,herself,4.397888250795027
+15,Reflexive,SG,PL,The evil witch who stalked the royal princess supposedly poisoned {} with a cursed apple.,themselves,9.579889943416948
+15,Reflexive,PL,SG,The evil witch who stalked the royal princesses supposedly poisoned {} with a cursed apple.,herself,5.1913886776937614
+15,Reflexive,PL,PL,The evil witch who stalked the royal princesses supposedly poisoned {} with a cursed apple.,themselves,5.855187435605321
+16,Verbal,SG,SG,The hard-working maid who chastised the lazy housekeeper probably {} angry about doing other people's work.,was,1.4929750797360373
+16,Verbal,SG,PL,The hard-working maid who chastised the lazy housekeeper probably {} angry about doing other people's work.,were,7.606026859754249
+16,Verbal,PL,SG,The hard-working maid who chastised the lazy housekeepers probably {} angry about doing other people's work.,was,2.3401100170557445
+16,Verbal,PL,PL,The hard-working maid who chastised the lazy housekeepers probably {} angry about doing other people's work.,were,3.0005990539377634
+16,Reflexive,SG,SG,The hard-working maid who chastised the lazy housekeeper probably upset {} from doing other people's work.,herself,4.691799448039296
+16,Reflexive,SG,PL,The hard-working maid who chastised the lazy housekeeper probably upset {} from doing other people's work.,themselves,8.974652061293616
+16,Reflexive,PL,SG,The hard-working maid who chastised the lazy housekeepers probably upset {} from doing other people's work.,herself,5.198734007037496
+16,Reflexive,PL,PL,The hard-working maid who chastised the lazy housekeepers probably upset {} from doing other people's work.,themselves,6.225723468944193
+17,Verbal,SG,SG,The kindergarten teacher who lectured the young girl clearly {} friendly to the young students.,was,1.4747049020698415
+17,Verbal,SG,PL,The kindergarten teacher who lectured the young girl clearly {} friendly to the young students.,were,7.150452967866705
+17,Verbal,PL,SG,The kindergarten teacher who lectured the young girls clearly {} friendly to the young students.,was,1.5638603576770207
+17,Verbal,PL,PL,The kindergarten teacher who lectured the young girls clearly {} friendly to the young students.,were,5.672761099234895
+17,Reflexive,SG,SG,The kindergarten teacher who lectured the young girl clearly prepared {} thoroughly for each lesson.,herself,1.9932818576534912
+17,Reflexive,SG,PL,The kindergarten teacher who lectured the young girl clearly prepared {} thoroughly for each lesson.,themselves,6.329794144771763
+17,Reflexive,PL,SG,The kindergarten teacher who lectured the young girls clearly prepared {} thoroughly for each lesson.,herself,4.404939247209261
+17,Reflexive,PL,PL,The kindergarten teacher who lectured the young girls clearly prepared {} thoroughly for each lesson.,themselves,3.6791855441223094
+18,Verbal,SG,SG,The respected feminist who advised the powerful congresswoman obviously {} supportive of progressive political views.,was,1.0667631073362436
+18,Verbal,SG,PL,The respected feminist who advised the powerful congresswoman obviously {} supportive of progressive political views.,were,4.037120846993023
+18,Verbal,PL,SG,The respected feminist who advised the powerful congresswomen obviously {} supportive of progressive political views.,was,1.2697624839031803
+18,Verbal,PL,PL,The respected feminist who advised the powerful congresswomen obviously {} supportive of progressive political views.,were,1.6893231544649945
+18,Reflexive,SG,SG,The respected feminist who advised the powerful congresswoman obviously excused {} from any classified discussions.,herself,3.1620309537260614
+18,Reflexive,SG,PL,The respected feminist who advised the powerful congresswoman obviously excused {} from any classified discussions.,themselves,7.94781970914323
+18,Reflexive,PL,SG,The respected feminist who advised the powerful congresswomen obviously excused {} from any classified discussions.,herself,3.2126135119810604
+18,Reflexive,PL,PL,The respected feminist who advised the powerful congresswomen obviously excused {} from any classified discussions.,themselves,6.9350789983665555
+19,Verbal,SG,SG,The dental hygienist who treated the elderly lady evidently {} known for being very thorough.,was,1.7324273241788473
+19,Verbal,SG,PL,The dental hygienist who treated the elderly lady evidently {} known for being very thorough.,were,7.461184455317532
+19,Verbal,PL,SG,The dental hygienist who treated the elderly ladies evidently {} known for being very thorough.,was,1.5279768238285159
+19,Verbal,PL,PL,The dental hygienist who treated the elderly ladies evidently {} known for being very thorough.,were,4.574114264851428
+19,Reflexive,SG,SG,The dental hygienist who treated the elderly lady evidently taught {} how to do root canals.,herself,9.09983743638445
+19,Reflexive,SG,PL,The dental hygienist who treated the elderly lady evidently taught {} how to do root canals.,themselves,12.192662767694937
+19,Reflexive,PL,SG,The dental hygienist who treated the elderly ladies evidently taught {} how to do root canals.,herself,9.96199834778868
+19,Reflexive,PL,PL,The dental hygienist who treated the elderly ladies evidently taught {} how to do root canals.,themselves,9.663034645878628
+20,Verbal,SG,SG,The glamorous supermodel who promoted the fashion designer apparently {} ready for another photo shoot.,was,2.936271499919894
+20,Verbal,SG,PL,The glamorous supermodel who promoted the fashion designer apparently {} ready for another photo shoot.,were,7.349087626628667
+20,Verbal,PL,SG,The glamorous supermodel who promoted the fashion designers apparently {} ready for another photo shoot.,was,4.273731836208079
+20,Verbal,PL,PL,The glamorous supermodel who promoted the fashion designers apparently {} ready for another photo shoot.,were,3.044269045022967
+20,Reflexive,SG,SG,The glamorous supermodel who promoted the fashion designer apparently bruised {} during the photo shoot.,herself,5.474259010175528
+20,Reflexive,SG,PL,The glamorous supermodel who promoted the fashion designer apparently bruised {} during the photo shoot.,themselves,10.253060432248676
+20,Reflexive,PL,SG,The glamorous supermodel who promoted the fashion designers apparently bruised {} during the photo shoot.,herself,5.863046425225402
+20,Reflexive,PL,PL,The glamorous supermodel who promoted the fashion designers apparently bruised {} during the photo shoot.,themselves,7.9595273232474275
+21,Verbal,SG,SG,The peppy cheerleader who socialized with the sorority member clearly {} uncomfortable at the frat party.,was,3.829835924264655
+21,Verbal,SG,PL,The peppy cheerleader who socialized with the sorority member clearly {} uncomfortable at the frat party.,were,10.548563736223489
+21,Verbal,PL,SG,The peppy cheerleader who socialized with the sorority members clearly {} uncomfortable at the frat party.,was,3.839957489302717
+21,Verbal,PL,PL,The peppy cheerleader who socialized with the sorority members clearly {} uncomfortable at the frat party.,were,8.270149439487716
+21,Reflexive,SG,SG,The peppy cheerleader who socialized with the sorority member clearly injured {} during last night's practice.,herself,1.6315413634712101
+21,Reflexive,SG,PL,The peppy cheerleader who socialized with the sorority member clearly injured {} during last night's practice.,themselves,6.913398219174338
+21,Reflexive,PL,SG,The peppy cheerleader who socialized with the sorority members clearly injured {} during last night's practice.,herself,1.487018596085961
+21,Reflexive,PL,PL,The peppy cheerleader who socialized with the sorority members clearly injured {} during last night's practice.,themselves,4.816172166954298
+22,Verbal,SG,SG,The cleaning lady who worked for the aging spinster seemingly {} reluctant to use bleaching agents.,was,4.248634820341458
+22,Verbal,SG,PL,The cleaning lady who worked for the aging spinster seemingly {} reluctant to use bleaching agents.,were,10.785508929958407
+22,Verbal,PL,SG,The cleaning lady who worked for the aging spinsters seemingly {} reluctant to use bleaching agents.,was,4.075171914708646
+22,Verbal,PL,PL,The cleaning lady who worked for the aging spinsters seemingly {} reluctant to use bleaching agents.,were,9.221691618953471
+22,Reflexive,SG,SG,The cleaning lady who worked for the aging spinster seemingly preoccupied {} with the dirty dishes.,herself,1.0811789715808673
+22,Reflexive,SG,PL,The cleaning lady who worked for the aging spinster seemingly preoccupied {} with the dirty dishes.,themselves,6.119260065264526
+22,Reflexive,PL,SG,The cleaning lady who worked for the aging spinsters seemingly preoccupied {} with the dirty dishes.,herself,1.0385789215907042
+22,Reflexive,PL,PL,The cleaning lady who worked for the aging spinsters seemingly preoccupied {} with the dirty dishes.,themselves,4.013353199787184
+23,Verbal,SG,SG,The efficient secretary who assisted the rapid typist undeniably {} systematic in sorting company documents.,was,4.141620724312413
+23,Verbal,SG,PL,The efficient secretary who assisted the rapid typist undeniably {} systematic in sorting company documents.,were,9.816478496534712
+23,Verbal,PL,SG,The efficient secretary who assisted the rapid typists undeniably {} systematic in sorting company documents.,was,4.131871976418284
+23,Verbal,PL,PL,The efficient secretary who assisted the rapid typists undeniably {} systematic in sorting company documents.,were,8.04230339887407
+23,Reflexive,SG,SG,The efficient secretary who assisted the rapid typist undeniably scratched {} with the sharp letter-opener.,herself,8.803748185529132
+23,Reflexive,SG,PL,The efficient secretary who assisted the rapid typist undeniably scratched {} with the sharp letter-opener.,themselves,10.206867453125904
+23,Reflexive,PL,SG,The efficient secretary who assisted the rapid typists undeniably scratched {} with the sharp letter-opener.,herself,8.948211555376755
+23,Reflexive,PL,PL,The efficient secretary who assisted the rapid typists undeniably scratched {} with the sharp letter-opener.,themselves,8.18812293588579
+24,Verbal,SG,SG,The effective salesman who worked for the successful entrepreneur probably {} worried about the company's image in the news.,was,2.069371923487286
+24,Verbal,SG,PL,The effective salesman who worked for the successful entrepreneur probably {} worried about the company's image in the news.,were,5.0162492804030725
+24,Verbal,PL,SG,The effective salesman who worked for the successful entrepreneurs probably {} worried about the company's image in the news.,was,2.2951683454638014
+24,Verbal,PL,PL,The effective salesman who worked for the successful entrepreneurs probably {} worried about the company's image in the news.,were,2.7623392558051765
+24,Reflexive,SG,SG,The effective salesman who worked for the successful entrepreneur probably recommended {} for the new manager position.,himself,8.382046211649804
+24,Reflexive,SG,PL,The effective salesman who worked for the successful entrepreneur probably recommended {} for the new manager position.,themselves,13.076168122210188
+24,Reflexive,PL,SG,The effective salesman who worked for the successful entrepreneurs probably recommended {} for the new manager position.,himself,8.398727710068618
+24,Reflexive,PL,PL,The effective salesman who worked for the successful entrepreneurs probably recommended {} for the new manager position.,themselves,12.472277820646024
+25,Verbal,SG,SG,The charming butcher who served the picky chef actually {} unconcerned about selling rancid meat.,was,3.934522232166877
+25,Verbal,SG,PL,The charming butcher who served the picky chef actually {} unconcerned about selling rancid meat.,were,11.449586218795961
+25,Verbal,PL,SG,The charming butcher who served the picky chefs actually {} unconcerned about selling rancid meat.,was,3.707644662283644
+25,Verbal,PL,PL,The charming butcher who served the picky chefs actually {} unconcerned about selling rancid meat.,were,8.288047518774464
+25,Reflexive,SG,SG,The charming butcher who served the picky chef actually burned {} in the kitchen.,himself,6.097131419604934
+25,Reflexive,SG,PL,The charming butcher who served the picky chef actually burned {} in the kitchen.,themselves,10.252522622035196
+25,Reflexive,PL,SG,The charming butcher who served the picky chefs actually burned {} in the kitchen.,himself,7.358172484824414
+25,Reflexive,PL,PL,The charming butcher who served the picky chefs actually burned {} in the kitchen.,themselves,8.515710819686817
+26,Verbal,SG,SG,The hilarious clown who entertained the circus lion-tamer likely {} scared of the growling lions.,was,5.016058578032526
+26,Verbal,SG,PL,The hilarious clown who entertained the circus lion-tamer likely {} scared of the growling lions.,were,10.863688933775117
+26,Verbal,PL,SG,The hilarious clown who entertained the circus lion-tamers likely {} scared of the growling lions.,was,5.033303752620968
+26,Verbal,PL,PL,The hilarious clown who entertained the circus lion-tamers likely {} scared of the growling lions.,were,8.869786100575443
+26,Reflexive,SG,SG,The hilarious clown who entertained the circus lion-tamer likely slapped {} for a quick laugh.,himself,9.289268068317517
+26,Reflexive,SG,PL,The hilarious clown who entertained the circus lion-tamer likely slapped {} for a quick laugh.,themselves,12.904871996988005
+26,Reflexive,PL,SG,The hilarious clown who entertained the circus lion-tamers likely slapped {} for a quick laugh.,himself,9.41033799663296
+26,Reflexive,PL,PL,The hilarious clown who entertained the circus lion-tamers likely slapped {} for a quick laugh.,themselves,11.335372276138736
+27,Verbal,SG,SG,The wealthy heiress who yelled at the lazy maid undeniably {} irritated at the dirty dishes.,was,4.233612835762899
+27,Verbal,SG,PL,The wealthy heiress who yelled at the lazy maid undeniably {} irritated at the dirty dishes.,were,9.386374742097647
+27,Verbal,PL,SG,The wealthy heiress who yelled at the lazy maids undeniably {} irritated at the dirty dishes.,was,4.4556103385799775
+27,Verbal,PL,PL,The wealthy heiress who yelled at the lazy maids undeniably {} irritated at the dirty dishes.,were,7.334835865585548
+27,Reflexive,SG,SG,The wealthy heiress who yelled at the lazy maid undeniably ruined {} in an embezzlement scandal.,herself,3.721397268791711
+27,Reflexive,SG,PL,The wealthy heiress who yelled at the lazy maid undeniably ruined {} in an embezzlement scandal.,themselves,9.051639007151692
+27,Reflexive,PL,SG,The wealthy heiress who yelled at the lazy maids undeniably ruined {} in an embezzlement scandal.,herself,4.567292957932165
+27,Reflexive,PL,PL,The wealthy heiress who yelled at the lazy maids undeniably ruined {} in an embezzlement scandal.,themselves,6.985966244834926
+28,Verbal,SG,SG,The cruel hunter who accompanied the accurate sharpshooter surely {} capable of finding deer in the forest.,was,1.119386817149185
+28,Verbal,SG,PL,The cruel hunter who accompanied the accurate sharpshooter surely {} capable of finding deer in the forest.,were,5.187936416421528
+28,Verbal,PL,SG,The cruel hunter who accompanied the accurate sharpshooters surely {} capable of finding deer in the forest.,was,1.6284014705918972
+28,Verbal,PL,PL,The cruel hunter who accompanied the accurate sharpshooters surely {} capable of finding deer in the forest.,were,2.1671681111076704
+28,Reflexive,SG,SG,The cruel hunter who accompanied the accurate sharpshooter surely shot {} in the left foot.,himself,5.706634582521098
+28,Reflexive,SG,PL,The cruel hunter who accompanied the accurate sharpshooter surely shot {} in the left foot.,themselves,12.525333147416468
+28,Reflexive,PL,SG,The cruel hunter who accompanied the accurate sharpshooters surely shot {} in the left foot.,himself,6.126967402010286
+28,Reflexive,PL,PL,The cruel hunter who accompanied the accurate sharpshooters surely shot {} in the left foot.,themselves,11.04395695733043
+29,Verbal,SG,SG,The successful businessman who scolded the teenage bellhop allegedly {} angry with the hotel management.,was,2.9173542313486633
+29,Verbal,SG,PL,The successful businessman who scolded the teenage bellhop allegedly {} angry with the hotel management.,were,10.448349230540764
+29,Verbal,PL,SG,The successful businessman who scolded the teenage bellhops allegedly {} angry with the hotel management.,was,2.853098097238104
+29,Verbal,PL,PL,The successful businessman who scolded the teenage bellhops allegedly {} angry with the hotel management.,were,8.478045226872082
+29,Reflexive,SG,SG,The successful businessman who scolded the teenage bellhop allegedly locked {} in a penthouse room all alone.,himself,2.7425921579994057
+29,Reflexive,SG,PL,The successful businessman who scolded the teenage bellhop allegedly locked {} in a penthouse room all alone.,themselves,3.870172244872184
+29,Reflexive,PL,SG,The successful businessman who scolded the teenage bellhops allegedly locked {} in a penthouse room all alone.,himself,4.883329557812328
+29,Reflexive,PL,PL,The successful businessman who scolded the teenage bellhops allegedly locked {} in a penthouse room all alone.,themselves,1.167036318796728
+30,Verbal,SG,SG,The police officer who aided the brilliant detective reportedly {} suspicious of the victim's brother.,was,5.5622597361254495
+30,Verbal,SG,PL,The police officer who aided the brilliant detective reportedly {} suspicious of the victim's brother.,were,11.890508537246868
+30,Verbal,PL,SG,The police officer who aided the brilliant detectives reportedly {} suspicious of the victim's brother.,was,6.053394054192149
+30,Verbal,PL,PL,The police officer who aided the brilliant detectives reportedly {} suspicious of the victim's brother.,were,8.688121444123121
+30,Reflexive,SG,SG,The police officer who aided the brilliant detective reportedly disguised {} to get more information.,himself,1.1113395141396176
+30,Reflexive,SG,PL,The police officer who aided the brilliant detective reportedly disguised {} to get more information.,themselves,6.792265625301791
+30,Reflexive,PL,SG,The police officer who aided the brilliant detectives reportedly disguised {} to get more information.,himself,1.6032925350508944
+30,Reflexive,PL,PL,The police officer who aided the brilliant detectives reportedly disguised {} to get more information.,themselves,3.9878561363137033
+31,Verbal,SG,SG,The old rancher who listened to the dishonest salesman unsurprisingly {} skeptical about buying more insurance.,was,3.312323283841071
+31,Verbal,SG,PL,The old rancher who listened to the dishonest salesman unsurprisingly {} skeptical about buying more insurance.,were,9.65275928519092
+31,Verbal,PL,SG,The old rancher who listened to the dishonest salesmen unsurprisingly {} skeptical about buying more insurance.,was,3.3726932287745846
+31,Verbal,PL,PL,The old rancher who listened to the dishonest salesmen unsurprisingly {} skeptical about buying more insurance.,were,7.509054890839999
+31,Reflexive,SG,SG,The old rancher who listened to the dishonest salesman unsurprisingly isolated {} in a huge ranch on the hill.,himself,1.3144988811469316
+31,Reflexive,SG,PL,The old rancher who listened to the dishonest salesman unsurprisingly isolated {} in a huge ranch on the hill.,themselves,7.15604847947093
+31,Reflexive,PL,SG,The old rancher who listened to the dishonest salesmen unsurprisingly isolated {} in a huge ranch on the hill.,himself,1.2446608783926558
+31,Reflexive,PL,PL,The old rancher who listened to the dishonest salesmen unsurprisingly isolated {} in a huge ranch on the hill.,themselves,3.2172564837514463
+32,Verbal,SG,SG,The meek boxer who trained with the persistent coach shockingly {} brutal in the boxing ring.,was,4.445605538405454
+32,Verbal,SG,PL,The meek boxer who trained with the persistent coach shockingly {} brutal in the boxing ring.,were,11.402342268008418
+32,Verbal,PL,SG,The meek boxer who trained with the persistent coaches shockingly {} brutal in the boxing ring.,was,4.328546505167315
+32,Verbal,PL,PL,The meek boxer who trained with the persistent coaches shockingly {} brutal in the boxing ring.,were,9.901375916059962
+32,Reflexive,SG,SG,The meek boxer who trained with the persistent coach shockingly wounded {} in a recent scuffle.,himself,5.171870974839507
+32,Reflexive,SG,PL,The meek boxer who trained with the persistent coach shockingly wounded {} in a recent scuffle.,themselves,11.29789570960602
+32,Reflexive,PL,SG,The meek boxer who trained with the persistent coaches shockingly wounded {} in a recent scuffle.,himself,5.32210092630563
+32,Reflexive,PL,PL,The meek boxer who trained with the persistent coaches shockingly wounded {} in a recent scuffle.,themselves,10.281040028385192
+33,Verbal,SG,SG,The amateur bodybuilder who worked with the personal trainer amazingly {} competitive for the gold medal.,was,3.8184159508777293
+33,Verbal,SG,PL,The amateur bodybuilder who worked with the personal trainer amazingly {} competitive for the gold medal.,were,5.474190561484058
+33,Verbal,PL,SG,The amateur bodybuilder who worked with the personal trainers amazingly {} competitive for the gold medal.,was,4.2424411137533795
+33,Verbal,PL,PL,The amateur bodybuilder who worked with the personal trainers amazingly {} competitive for the gold medal.,were,4.0011343274360875
+33,Reflexive,SG,SG,The amateur bodybuilder who worked with the personal trainer amazingly injured {} on the lightest weights.,himself,2.538241051630804
+33,Reflexive,SG,PL,The amateur bodybuilder who worked with the personal trainer amazingly injured {} on the lightest weights.,themselves,7.330276896626585
+33,Reflexive,PL,SG,The amateur bodybuilder who worked with the personal trainers amazingly injured {} on the lightest weights.,himself,3.2673561925032684
+33,Reflexive,PL,PL,The amateur bodybuilder who worked with the personal trainers amazingly injured {} on the lightest weights.,themselves,5.42629087480365
+34,Verbal,SG,SG,The basketball coach who trained the star player usually {} nervous at the important games.,was,5.409144127212349
+34,Verbal,SG,PL,The basketball coach who trained the star player usually {} nervous at the important games.,were,9.821673429704498
+34,Verbal,PL,SG,The basketball coach who trained the star players usually {} nervous at the important games.,was,4.902582827040778
+34,Verbal,PL,PL,The basketball coach who trained the star players usually {} nervous at the important games.,were,8.529207839361012
+34,Reflexive,SG,SG,The basketball coach who trained the star player usually blamed {} for the team's poor performance.,himself,5.013961472066755
+34,Reflexive,SG,PL,The basketball coach who trained the star player usually blamed {} for the team's poor performance.,themselves,7.324456174808676
+34,Reflexive,PL,SG,The basketball coach who trained the star player usually blamed {} for the team's poor performance.,himself,5.013961472066755
+34,Reflexive,PL,PL,The basketball coach who trained the star player usually blamed {} for the team's poor performance.,themselves,7.324456174808676
+35,Verbal,SG,SG,The young caddy who escorted the experienced golfer supposedly {} helpful around the country club.,was,3.481184188623868
+35,Verbal,SG,PL,The young caddy who escorted the experienced golfer supposedly {} helpful around the country club.,were,7.240461540557095
+35,Verbal,PL,SG,The young caddy who escorted the experienced golfers supposedly {} helpful around the country club.,was,3.5753004802715496
+35,Verbal,PL,PL,The young caddy who escorted the experienced golfers supposedly {} helpful around the country club.,were,4.638589339238396
+35,Reflexive,SG,SG,The young caddy who escorted the experienced golfer supposedly dirtied {} by falling in the sand.,himself,2.2912820255180293
+35,Reflexive,SG,PL,The young caddy who escorted the experienced golfer supposedly dirtied {} by falling in the sand.,themselves,6.651258205393465
+35,Reflexive,PL,SG,The young caddy who escorted the experienced golfers supposedly dirtied {} by falling in the sand.,himself,4.327050199537899
+35,Reflexive,PL,PL,The young caddy who escorted the experienced golfers supposedly dirtied {} by falling in the sand.,themselves,2.948213712318622
+36,Verbal,SG,SG,The construction worker who argued with the shift leader undeniably {} disgruntled about being harshly disciplined.,was,3.038072484798487
+36,Verbal,SG,PL,The construction worker who argued with the shift leader undeniably {} disgruntled about being harshly disciplined.,were,9.175507240459384
+36,Verbal,PL,SG,The construction worker who argued with the shift leaders undeniably {} disgruntled about being harshly disciplined.,was,3.250419414118553
+36,Verbal,PL,PL,The construction worker who argued with the shift leaders undeniably {} disgruntled about being harshly disciplined.,were,5.1696068471238945
+36,Reflexive,SG,SG,The construction worker who argued with the shift leader undeniably hurt {} on the construction site.,himself,5.109111770761188
+36,Reflexive,SG,PL,The construction worker who argued with the shift leader undeniably hurt {} on the construction site.,themselves,5.192036289548861
+36,Reflexive,PL,SG,The construction worker who argued with the shift leaders undeniably hurt {} on the construction site.,himself,5.890878901768981
+36,Reflexive,PL,PL,The construction worker who argued with the shift leaders undeniably hurt {} on the construction site.,themselves,3.6151206240330844
+37,Verbal,SG,SG,The grimy blacksmith who worked for the royal knight evidently {} unaware of basic forging techniques.,was,0.8148726175531735
+37,Verbal,SG,PL,The grimy blacksmith who worked for the royal knight evidently {} unaware of basic forging techniques.,were,4.381777621785958
+37,Verbal,PL,SG,The grimy blacksmith who worked for the royal knights evidently {} unaware of basic forging techniques.,was,0.9420195113332921
+37,Verbal,PL,PL,The grimy blacksmith who worked for the royal knights evidently {} unaware of basic forging techniques.,were,2.951906475853229
+37,Reflexive,SG,SG,The grimy blacksmith who worked for the royal knight evidently hurt {} with the sharp tools.,himself,3.881839915117357
+37,Reflexive,SG,PL,The grimy blacksmith who worked for the royal knight evidently hurt {} with the sharp tools.,themselves,5.31236279147221
+37,Reflexive,PL,SG,The grimy blacksmith who worked for the royal knights evidently hurt {} with the sharp tools.,himself,4.911903915991507
+37,Reflexive,PL,PL,The grimy blacksmith who worked for the royal knights evidently hurt {} with the sharp tools.,themselves,4.898849671182138
+38,Verbal,SG,SG,The paranoid foreman who supervised the coal miner presumably {} worried about dangerous working conditions.,was,1.8365215311010388
+38,Verbal,SG,PL,The paranoid foreman who supervised the coal miner presumably {} worried about dangerous working conditions.,were,6.966056827663052
+38,Verbal,PL,SG,The paranoid foreman who supervised the coal miners presumably {} worried about dangerous working conditions.,was,1.7842869021225092
+38,Verbal,PL,PL,The paranoid foreman who supervised the coal miners presumably {} worried about dangerous working conditions.,were,4.446724258767848
+38,Reflexive,SG,SG,The paranoid foreman who supervised the coal miner presumably saved {} after the awful cave-in.,himself,7.39340660223772
+38,Reflexive,SG,PL,The paranoid foreman who supervised the coal miner presumably saved {} after the awful cave-in.,themselves,10.367350188825593
+38,Reflexive,PL,SG,The paranoid foreman who supervised the coal miners presumably saved {} after the awful cave-in.,himself,7.550222634494885
+38,Reflexive,PL,PL,The paranoid foreman who supervised the coal miners presumably saved {} after the awful cave-in.,themselves,8.213815936939355
+39,Verbal,SG,SG,The serious general who advised the new corporal seemingly {} unhappy with the training regimen.,was,1.3279469979282796
+39,Verbal,SG,PL,The serious general who advised the new corporal seemingly {} unhappy with the training regimen.,were,6.095211232694598
+39,Verbal,PL,SG,The serious general who advised the new corporals seemingly {} unhappy with the training regimen.,was,1.6833662907734788
+39,Verbal,PL,PL,The serious general who advised the new corporals seemingly {} unhappy with the training regimen.,were,3.3708613105586784
+39,Reflexive,SG,SG,The serious general who advised the new corporal seemingly committed {} to the training regimen.,himself,2.1346651557028347
+39,Reflexive,SG,PL,The serious general who advised the new corporal seemingly committed {} to the training regimen.,themselves,7.628763749765923
+39,Reflexive,PL,SG,The serious general who advised the new corporals seemingly committed {} to the training regimen.,himself,3.1655217165905456
+39,Reflexive,PL,PL,The serious general who advised the new corporals seemingly committed {} to the training regimen.,themselves,5.292191709286679
+40,Verbal,SG,SG,The new executive who oversaw the middle manager apparently {} dishonest about the company's profits.,was,1.8762028557898243
+40,Verbal,SG,PL,The new executive who oversaw the middle manager apparently {} dishonest about the company's profits.,were,6.269607088028401
+40,Verbal,PL,SG,The new executive who oversaw the middle managers apparently {} dishonest about the company's profits.,was,2.7205914710638615
+40,Verbal,PL,PL,The new executive who oversaw the middle managers apparently {} dishonest about the company's profits.,were,3.408311596627845
+40,Reflexive,SG,SG,The new executive who oversaw the middle manager apparently doubted {} on most major decisions.,himself,5.445902912228124
+40,Reflexive,SG,PL,The new executive who oversaw the middle manager apparently doubted {} on most major decisions.,themselves,7.244586912688878
+40,Reflexive,PL,SG,The new executive who oversaw the middle managers apparently doubted {} on most major decisions.,himself,6.288694218393739
+40,Reflexive,PL,PL,The new executive who oversaw the middle managers apparently doubted {} on most major decisions.,themselves,5.9050834163723565
+41,Verbal,SG,SG,The popular sheriff who campaigned for the incumbent politician never {} concerned with preventing violent crime.,was,2.2504275974401122
+41,Verbal,SG,PL,The popular sheriff who campaigned for the incumbent politician never {} concerned with preventing violent crime.,were,6.9078472760102265
+41,Verbal,PL,SG,The popular sheriff who campaigned for the incumbent politicians never {} concerned with preventing violent crime.,was,2.495917033003834
+41,Verbal,PL,PL,The popular sheriff who campaigned for the incumbent politicians never {} concerned with preventing violent crime.,were,4.49335513064828
+41,Reflexive,SG,SG,The popular sheriff who campaigned for the incumbent politician never prepared {} for the new press briefing.,himself,1.5650534347945269
+41,Reflexive,SG,PL,The popular sheriff who campaigned for the incumbent politician never prepared {} for the new press briefing.,themselves,5.963760137974675
+41,Reflexive,PL,SG,The popular sheriff who campaigned for the incumbent politicians never prepared {} for the new press briefing.,himself,1.954384299671637
+41,Reflexive,PL,PL,The popular sheriff who campaigned for the incumbent politicians never prepared {} for the new press briefing.,themselves,3.262774632230396
+42,Verbal,SG,SG,The somber minister who conversed with the religious scholar usually {} tempted to discuss controversial issues.,was,3.912736915252268
+42,Verbal,SG,PL,The somber minister who conversed with the religious scholar usually {} tempted to discuss controversial issues.,were,8.062657522561281
+42,Verbal,PL,SG,The somber minister who conversed with the religious scholars usually {} tempted to discuss controversial issues.,was,3.4217328173858683
+42,Verbal,PL,PL,The somber minister who conversed with the religious scholars usually {} tempted to discuss controversial issues.,were,5.726170971524329
+42,Reflexive,SG,SG,The somber minister who conversed with the religious scholar usually presented {} as very open-minded.,himself,1.1435199485241767
+42,Reflexive,SG,PL,The somber minister who conversed with the religious scholar usually presented {} as very open-minded.,themselves,2.557447111833545
+42,Reflexive,PL,SG,The somber minister who conversed with the religious scholars usually presented {} as very open-minded.,himself,1.7940472014654039
+42,Reflexive,PL,PL,The somber minister who conversed with the religious scholars usually presented {} as very open-minded.,themselves,1.7745829232476946
+43,Verbal,SG,SG,The rich CEO who employed the expensive chauffeur typically {} unwilling to take the scenic route.,was,2.2303056943605863
+43,Verbal,SG,PL,The rich CEO who employed the expensive chauffeur typically {} unwilling to take the scenic route.,were,3.3945402633904
+43,Verbal,PL,SG,The rich CEO who employed the expensive chauffeurs typically {} unwilling to take the scenic route.,was,3.2136603687359004
+43,Verbal,PL,PL,The rich CEO who employed the expensive chauffeurs typically {} unwilling to take the scenic route.,were,1.499213421818139
+43,Reflexive,SG,SG,The rich CEO who employed the expensive chauffeur typically amused {} by requesting the scenic route.,himself,5.4989076499899046
+43,Reflexive,SG,PL,The rich CEO who employed the expensive chauffeur typically amused {} by requesting the scenic route.,themselves,6.349891047474731
+43,Reflexive,PL,SG,The rich CEO who employed the expensive chauffeurs typically amused {} by requesting the scenic route.,himself,6.069528927427732
+43,Reflexive,PL,PL,The rich CEO who employed the expensive chauffeurs typically amused {} by requesting the scenic route.,themselves,4.861826181075971
+44,Verbal,SG,SG,The handy plumber who helped the absentminded homeowner probably {} watchful for any leaky joints.,was,7.115257655278753
+44,Verbal,SG,PL,The handy plumber who helped the absentminded homeowner probably {} watchful for any leaky joints.,were,7.54824807953818
+44,Verbal,PL,SG,The handy plumber who helped the absentminded homeowners probably {} watchful for any leaky joints.,was,7.386017355422006
+44,Verbal,PL,PL,The handy plumber who helped the absentminded homeowners probably {} watchful for any leaky joints.,were,5.961776914389352
+44,Reflexive,SG,SG,The handy plumber who helped the absentminded homeowner probably drenched {} when the pipes burst.,himself,5.44154974068818
+44,Reflexive,SG,PL,The handy plumber who helped the absentminded homeowner probably drenched {} when the pipes burst.,themselves,8.58240845567923
+44,Reflexive,PL,SG,The handy plumber who helped the absentminded homeowners probably drenched {} when the pipes burst.,himself,6.088253640693493
+44,Reflexive,PL,PL,The handy plumber who helped the absentminded homeowners probably drenched {} when the pipes burst.,themselves,6.337667696291182
+45,Verbal,SG,SG,The elderly doctor who treated the tough soldier usually {} reluctant to prescribe pain medication.,was,2.622574048589023
+45,Verbal,SG,PL,The elderly doctor who treated the tough soldier usually {} reluctant to prescribe pain medication.,were,7.4787243824496255
+45,Verbal,PL,SG,The elderly doctor who treated the tough soldiers usually {} reluctant to prescribe pain medication.,was,2.135284676907681
+45,Verbal,PL,PL,The elderly doctor who treated the tough soldiers usually {} reluctant to prescribe pain medication.,were,5.338508272844052
+45,Reflexive,SG,SG,The elderly doctor who treated the tough soldier usually cleaned {} after every single appointment.,himself,5.382313954856763
+45,Reflexive,SG,PL,The elderly doctor who treated the tough soldier usually cleaned {} after every single appointment.,themselves,8.469567705033636
+45,Reflexive,PL,SG,The elderly doctor who treated the tough soldiers usually cleaned {} after every single appointment.,himself,6.90904185287102
+45,Reflexive,PL,PL,The elderly doctor who treated the tough soldiers usually cleaned {} after every single appointment.,themselves,6.012330557592039
+46,Verbal,SG,SG,The football referee who argued with the large quarterback surprisingly {} unwilling to change the decision.,was,1.3160459132581588
+46,Verbal,SG,PL,The football referee who argued with the large quarterback surprisingly {} unwilling to change the decision.,were,4.65412321770033
+46,Verbal,PL,SG,The football referee who argued with the large quarterbacks surprisingly {} unwilling to change the decision.,was,1.3160036284198717
+46,Verbal,PL,PL,The football referee who argued with the large quarterbacks surprisingly {} unwilling to change the decision.,were,3.6377736211075797
+46,Reflexive,SG,SG,The football referee who argued with the large quarterback surprisingly excused {} from the important game.,himself,4.356315527922895
+46,Reflexive,SG,PL,The football referee who argued with the large quarterback surprisingly excused {} from the important game.,themselves,8.088249618400456
+46,Reflexive,PL,SG,The football referee who argued with the large quarterbacks surprisingly excused {} from the important game.,himself,4.626162809614992
+46,Reflexive,PL,PL,The football referee who argued with the large quarterbacks surprisingly excused {} from the important game.,themselves,6.2954470342641855
+47,Verbal,SG,SG,The rough woodsman who helped the tired hiker evidently {} annoyed with the environmental activists.,was,1.5757193850502094
+47,Verbal,SG,PL,The rough woodsman who helped the tired hiker evidently {} annoyed with the environmental activists.,were,4.6085783443479995
+47,Verbal,PL,SG,The rough woodsman who helped the tired hikers evidently {} annoyed with the environmental activists.,was,1.7888712879593245
+47,Verbal,PL,PL,The rough woodsman who helped the tired hikers evidently {} annoyed with the environmental activists.,were,2.971085601908678
+47,Reflexive,SG,SG,The rough woodsman who helped the tired hiker evidently secluded {} from the outside world.,himself,0.768801822223291
+47,Reflexive,SG,PL,The rough woodsman who helped the tired hiker evidently secluded {} from the outside world.,themselves,2.469651057641652
+47,Reflexive,PL,SG,The rough woodsman who helped the tired hikers evidently secluded {} from the outside world.,himself,3.568494871863064
+47,Reflexive,PL,PL,The rough woodsman who helped the tired hikers evidently secluded {} from the outside world.,themselves,0.25239549902320824
+48,Verbal,SG,SG,The slick politician who avoided the persistent journalist reportedly {} hypocritical in condemning the lobbyists.,was,1.8569290222892112
+48,Verbal,SG,PL,The slick politician who avoided the persistent journalist reportedly {} hypocritical in condemning the lobbyists.,were,8.574435120446582
+48,Verbal,PL,SG,The slick politician who avoided the persistent journalists reportedly {} hypocritical in condemning the lobbyists.,was,2.177065713976437
+48,Verbal,PL,PL,The slick politician who avoided the persistent journalists reportedly {} hypocritical in condemning the lobbyists.,were,5.913670828087945
+48,Reflexive,SG,SG,The slick politician who avoided the persistent journalist reportedly described {} as typically conservative.,himself,4.204659851059326
+48,Reflexive,SG,PL,The slick politician who avoided the persistent journalist reportedly described {} as typically conservative.,themselves,7.934555102856052
+48,Reflexive,PL,SG,The slick politician who avoided the persistent journalists reportedly described {} as typically conservative.,himself,3.8716879601564305
+48,Reflexive,PL,PL,The slick politician who avoided the persistent journalists reportedly described {} as typically conservative.,themselves,6.636247279496627
