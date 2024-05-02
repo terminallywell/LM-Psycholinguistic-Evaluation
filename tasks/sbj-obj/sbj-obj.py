@@ -8,6 +8,7 @@ TASK = task_list[1]
 
 models = [model.split('/')[1] for model in causal_models]
 
+# reformat data for plotting
 gmme = {
     'Model': [],
     'GMME': [],
@@ -30,31 +31,40 @@ for model in models:
 
 gmme = pd.DataFrame(gmme)
 
-
+# draw surprisal bar plots
 sns.set_theme(style='darkgrid', rc={'figure.figsize':(6,5), 'figure.dpi': 200})
 ax = sns.barplot(
     data=gmme,
     x='Model',
     y='GMME',
     hue='Condition',
+    errorbar=None # seaborn's ci95 calculation is off for some reason
 )
 
 
-# annotate significance
+# add error bars and annotate significance
+darkgray = '#424242'
+
 for i, model in enumerate(models):
     conditions = gmme['Condition'].unique()
 
     data = {condition: gmme[(gmme['Model'] == model) & (gmme['Condition'] == condition)]['GMME'] for condition in conditions}
     means = {const: data[const].mean() for const in conditions}
-    upper_ci95 = {
+    ci95 = {
         condition: stats.t.interval(
             .95,
             df=len(data[condition]) - 1,
             loc=means[condition],
             scale=stats.sem(data[condition])
-        )[1] for condition in conditions
+        ) for condition in conditions
     }
-    y = max(upper_ci95[condition] for condition in conditions) + .1
+
+    # error bars
+    for condition, offset in zip(conditions, [-.2, .2]):
+        plt.plot([i + offset] * 2, [*ci95[condition]], color=darkgray, linewidth=2)
+
+    # significance annotation
+    y = max(ci95[condition][1] for condition in conditions) + .1
 
     t, p = stats.ttest_ind(*(data[const] for const in conditions))
     
@@ -71,8 +81,8 @@ for i, model in enumerate(models):
         draw = False
     
     if draw:
-        plt.plot([i - .2, i - .2, i + .2, i + .2], [y, y + .1, y + .1, y], color='dimgray')
-        plt.text(i, y + .1, text, horizontalalignment='center')
+        plt.plot([i - .2, i - .2, i + .2, i + .2], [y, y + .1, y + .1, y], color=darkgray, linewidth=1)
+        plt.text(i, y + .075, text, horizontalalignment='center')
 
 
 ax.set(title='Gender mismatch effect by condition', ylabel='Surprisal difference')
