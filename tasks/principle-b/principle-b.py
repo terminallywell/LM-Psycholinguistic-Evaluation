@@ -88,5 +88,5 @@ for i, model in enumerate(models):
 ax.set(title='Gender mismatch effect by condition', ylabel='Surprisal difference')
 
 # plt.show()
-plt.savefig(f'tasks/{TASK}/results/{TASK}.png')
+plt.savefig(f'plots/{TASK}.png')
 plt.close()

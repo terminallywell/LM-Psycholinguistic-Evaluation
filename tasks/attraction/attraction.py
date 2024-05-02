@@ -8,7 +8,13 @@ TASK = task_list[1]
 
 models = [model.split('/')[1] for model in masked_models]
 
-for model in models:
+sns.set_theme(style='darkgrid', rc={'figure.figsize':(6,5), 'figure.dpi': 200})
+fig, axes = plt.subplots(2, 2, sharey=True)
+
+fig.set(title='Number mismatch effect by distractor')
+
+
+for model, ax in zip(models, axes.flat):
     data = pd.read_csv(f'tasks/Attraction/results/Attraction_{model}.csv')
 
     # reformat data for plotting
@@ -37,15 +43,16 @@ for model in models:
     nmme = pd.DataFrame(nmme)
 
     # draw surprisal difference bar plots
-    sns.set_theme(style='darkgrid', rc={'figure.figsize':(6,5), 'figure.dpi': 200})
+    
     ax = sns.barplot(
         data=nmme,
         x='Type',
         y='NMME',
         hue='Distractor',
-        errorbar=None
+        errorbar=None,
+        ax=ax
     )
-    plt.ylim((0, 12))
+    # plt.ylim((0, 12))
 
     # add error bars and annotate significance
     darkgray = '#424242'
@@ -66,7 +73,7 @@ for model in models:
 
         # error bars
         for condition, offset in zip(conditions, [-.2, .2]):
-            plt.plot([i + offset] * 2, [*ci95[condition]], color=darkgray, linewidth=2)
+            ax.plot([i + offset] * 2, [*ci95[condition]], color=darkgray, linewidth=2)
 
         # significance annotation
         y = max(ci95[condition][1] for condition in conditions) + .2
@@ -86,11 +93,12 @@ for model in models:
             draw = False
 
         if draw:
-            plt.plot([i - .2, i - .2, i + .2, i + .2], [y, y + .2, y + .2, y], color=darkgray, linewidth=1)
-            plt.text(i, y + .15, text, horizontalalignment='center')
+            ax.plot([i - .2, i - .2, i + .2, i + .2], [y, y + .2, y + .2, y], color=darkgray, linewidth=1)
+            ax.text(i, y + .15, text, horizontalalignment='center')
 
-    ax.set(title=f'Number mismatch effect by distractor\nModel: {model}', ylabel='Surprisal difference')
+    # ax.set(title=f'Model: {model}', ylabel='Surprisal difference')
 
-    # plt.show()
-    plt.savefig(f'tasks/attraction/results/attraction_{model}.png')
-    plt.close()
+
+# plt.show()
+plt.savefig(f'plots/attraction.png')
+plt.close()
