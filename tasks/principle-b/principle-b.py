@@ -31,7 +31,7 @@ for model in models:
 
 gmme = pd.DataFrame(gmme)
 
-# draw surprisal bar plots
+# draw surprisal difference bar plots
 sns.set_theme(style='darkgrid', rc={'figure.figsize':(6,5), 'figure.dpi': 200})
 ax = sns.barplot(
     data=gmme,
@@ -49,7 +49,7 @@ for i, model in enumerate(models):
     conditions = gmme['Condition'].unique()
 
     data = {condition: gmme[(gmme['Model'] == model) & (gmme['Condition'] == condition)]['GMME'] for condition in conditions}
-    means = {const: data[const].mean() for const in conditions}
+    means = {condition: data[condition].mean() for condition in conditions}
     ci95 = {
         condition: stats.t.interval(
             .95,
@@ -66,7 +66,7 @@ for i, model in enumerate(models):
     # significance annotation
     y = max(ci95[condition][1] for condition in conditions) + .1
 
-    t, p = stats.ttest_ind(*(data[const] for const in conditions))
+    t, p = stats.ttest_ind(*(data[condition] for condition in conditions))
 
     draw = True
     if p < .0001:
