@@ -11,9 +11,9 @@ with open('token.txt', encoding='utf8') as file:
 # list of hugging face models
 causal_models = [
     'openai-community/gpt2',
+    'facebook/opt-350m',
     'openai-community/gpt2-medium',
     'openai-community/gpt2-large',
-    'facebook/opt-350m',
     'google/gemma-2b',
 ]
 
