@@ -54,12 +54,13 @@ g.map_dataframe(
     # errorbar=None
 )
 g.set_ylabels('Surprisal difference')
-g.set_titles('{col_name}')
+g.set_xlabels('Agreement type')
+g.set_titles('Model: {col_name}')
 
 g.figure.subplots_adjust(top=.9)
 g.figure.suptitle('Number mismatch effect by distractor')
 
-g.axes.flat[0].legend(loc='upper left')
+g.axes.flat[0].legend(loc='upper left', fontsize='small', title='Distractor', title_fontsize='small')
 
 # plt.show()
 plt.savefig(f'plots/attraction.png')
